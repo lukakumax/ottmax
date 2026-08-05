@@ -1,5 +1,5 @@
 {
-  "lastId": 14,
+  "lastId": 51,
   "movies": [
     {
       "id": 1,
@@ -258,6 +258,675 @@
       "urls": [
         "https://streamwish.to/e/y2eguu5m0qnm",
         "https://vidhidepro.com/v/hjy062mwbkob"
+      ]
+    },
+    {
+      "id": 15,
+      "tmdbId": 637920,
+      "title": "Milagro en la celda 7",
+      "year": "2019",
+      "rating": "8.3",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Un hombre con discapacidad intelectual es injustamente encarcelado por la muerte de una niña, y debe demostrar su inocencia para poder estar de nuevo con su hija.",
+      "poster": "https://image.tmdb.org/t/p/w500/scxBIHaT1ZiPDPJu3vKd9Yn5gBA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/inEy3A5OPgeYW4rjRiGycfEeQzA.jpg",
+      "urls": [
+        "https://streamwish.to/e/ec384jrl8ctz"
+      ]
+    },
+    {
+      "id": 16,
+      "tmdbId": 1339713,
+      "title": "Obsession",
+      "year": "2026",
+      "rating": "8.2",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "overview": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "poster": "https://image.tmdb.org/t/p/w500/wnyUBssII8ZRDjDRlUyXt6tX9rt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "urls": [
+        "https://streamwish.to/e/gfzxxlaq6uox",
+        "https://vidhidepro.com/v/tpkfsm7ppuw8"
+      ]
+    },
+    {
+      "id": 17,
+      "tmdbId": 1368337,
+      "title": "La Odisea",
+      "year": "2026",
+      "rating": "8.0",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ],
+      "overview": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "poster": "https://image.tmdb.org/t/p/w500/eoNiukYRWJRxMlVnTOye0kkUB5k.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+      "urls": [
+        "https://streamwish.to/e/6gn4z3ii5rxp",
+        "https://vidhidepro.com/v/ti4lm11d6nlf"
+      ]
+    },
+    {
+      "id": 18,
+      "tmdbId": 1578018,
+      "title": "Bendito corazón",
+      "year": "2026",
+      "rating": "9.8",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/iAUKEORVdNcSaXGIdJ7QKJrBxVr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xh2IXxK62vZeLAn0VQmJLRH3ObU.jpg",
+      "urls": [
+        "https://streamwish.to/e/7wnc0dlvx5pe",
+        "https://vidhidepro.com/v/fetbdl9fzbof"
+      ]
+    },
+    {
+      "id": 19,
+      "tmdbId": 1275779,
+      "title": "El día de la revelación",
+      "year": "2026",
+      "rating": "7.4",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "overview": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
+      "poster": "https://image.tmdb.org/t/p/w500/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "urls": []
+    },
+    {
+      "id": 20,
+      "tmdbId": 1083381,
+      "title": "Backrooms",
+      "year": "2026",
+      "rating": "7.1",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "overview": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+      "poster": "https://image.tmdb.org/t/p/w500/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "urls": [
+        "https://streamwish.to/e/yh5z09a8e04c",
+        "https://vidhidepro.com/v/dlzpzjir163k"
+      ]
+    },
+    {
+      "id": 21,
+      "tmdbId": 980431,
+      "title": "La leyenda de Aang: El último Airbender",
+      "year": "2026",
+      "rating": "9.3",
+      "genres": [
+        "Animación",
+        "Acción",
+        "Aventura",
+        "Fantasía"
+      ],
+      "overview": "Película de animación que seguirá a Aang y sus amigos, ahora como jóvenes adultos, varios años después de los acontecimientos del final de 'Avatar: The Last Airbender'.",
+      "poster": "https://image.tmdb.org/t/p/w500/iMsORWhD8MawINagL6kvpDVAtS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+      "urls": [
+        "https://streamwish.to/e/er27d7jwnmw4",
+        "https://vidhidepro.com/v/vkhz913lgxyu"
+      ]
+    },
+    {
+      "id": 22,
+      "tmdbId": 936075,
+      "title": "Michael",
+      "year": "2026",
+      "rating": "8.7",
+      "genres": [
+        "Música",
+        "Drama"
+      ],
+      "overview": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "poster": "https://image.tmdb.org/t/p/w500/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+      "urls": [
+        "https://streamwish.to/e/ug5x2vpj2hk8",
+        "https://vidhidepro.com/v/pamaj33qcf9p"
+      ]
+    },
+    {
+      "id": 23,
+      "tmdbId": 1375646,
+      "title": "Zona Cero",
+      "year": "2026",
+      "rating": "8.1",
+      "genres": [
+        "Acción",
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "overview": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. Atrapado dentro sin escapatoria, Se-jeong, junto a un  pequeño grupo de supervivientes, debe luchar por mantenerse con vida  mientras los infectados sufren transformaciones horribles.",
+      "poster": "https://image.tmdb.org/t/p/w500/pQIpfeenClb2ws9G0kMg3HREjoA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+      "urls": [
+        "https://streamwish.to/e/qzgdo2xn6xny",
+        "https://vidhidepro.com/v/dl2co3xhme0q"
+      ]
+    },
+    {
+      "id": 24,
+      "tmdbId": 1311031,
+      "title": "Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita",
+      "year": "2025",
+      "rating": "8.6",
+      "genres": [
+        "Animación",
+        "Acción",
+        "Fantasía"
+      ],
+      "overview": "El Cuerpo de Cazadores de Demonios se enfrenta a los Doce Kizuki restantes antes de enfrentarse a Muzan en el Castillo del Infinito para derrotarlo de una vez por todas.",
+      "poster": "https://image.tmdb.org/t/p/w500/iWLV12z9oexSRLz2WKyqCZbKoPA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "urls": [
+        "https://streamwish.to/e/bfgy2htczrl6",
+        "https://vidhidepro.com/v/ddi59iujdxig"
+      ]
+    },
+    {
+      "id": 25,
+      "tmdbId": 1232569,
+      "title": "Pinocho esta Desquiciado",
+      "year": "2026",
+      "rating": "8.6",
+      "genres": [
+        "Terror",
+        "Fantasía",
+        "Misterio"
+      ],
+      "overview": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
+      "poster": "https://image.tmdb.org/t/p/w500/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
+      "urls": [
+        "https://streamwish.to/e/cy7ixvtrek3g",
+        "https://vidhidepro.com/v/vzqwkuiqjwa4"
+      ]
+    },
+    {
+      "id": 26,
+      "tmdbId": 1487861,
+      "title": "Elize: Sombras de una mujer",
+      "year": "2026",
+      "rating": "7.4",
+      "genres": [
+        "Suspense",
+        "Crimen",
+        "Drama"
+      ],
+      "overview": "Una antigua escort trata de ignorar las infidelidades de su rico marido. Pero esa traición envenena su matrimonio.",
+      "poster": "https://image.tmdb.org/t/p/w500/a3y0aWIJdJEw7pme6Y9W0aReIN9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
+      "urls": [
+        "https://streamwish.to/e/u3lmfzbo3093",
+        "https://vidhidepro.com/v/hmlmrkb1dose"
+      ]
+    },
+    {
+      "id": 27,
+      "tmdbId": 1718210,
+      "title": "A House Most Haunted",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/sqRzJDp7goGVs9fcRQwcy5Nx7DA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/x91cUID5qvKLmJGiWOwwKDfXxNc.jpg",
+      "urls": [
+        "https://streamwish.to/e/okkoth9dooq5",
+        "https://vidhidepro.com/v/zr3cbwlxdayi"
+      ]
+    },
+    {
+      "id": 28,
+      "tmdbId": 1127384,
+      "title": "En mar abierto",
+      "year": "2026",
+      "rating": "7.2",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "overview": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+      "poster": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+      "urls": [
+        "https://streamwish.to/e/tqbjw1w3ja0p",
+        "https://vidhidepro.com/v/0t3eld1a6w5t"
+      ]
+    },
+    {
+      "id": 30,
+      "tmdbId": 1630409,
+      "title": "El cobrador de deudas",
+      "year": "2026",
+      "rating": "7.7",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Crimen"
+      ],
+      "overview": "Atormentado por los errores del pasado y un diagnóstico terminal, un excobrador de deudas regresa al mundo del hampa para proteger a las víctimas de una organización violenta.",
+      "poster": "https://image.tmdb.org/t/p/w500/loW8i6T3amH4CONDjaUNmQv9kva.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
+      "urls": [
+        "https://streamwish.to/e/drmzgwe2ybf8",
+        "https://vidhidepro.com/v/9qcnuyn4qlfb"
+      ]
+    },
+    {
+      "id": 31,
+      "tmdbId": 1084244,
+      "title": "Toy Story 5",
+      "year": "2026",
+      "rating": "7.4",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia",
+        "Aventura"
+      ],
+      "overview": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "poster": "https://image.tmdb.org/t/p/w500/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+      "urls": [
+        "https://streamwish.to/e/iqvwqvswf4fk",
+        "https://vidhidepro.com/v/bg24l3g7ekgs"
+      ]
+    },
+    {
+      "id": 32,
+      "tmdbId": 1712326,
+      "title": "Land of Wolves",
+      "year": "2026",
+      "rating": "9.8",
+      "genres": [
+        "Acción",
+        "Bélica"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/znWUESPFa1QlvHii4Zc6d0pUxmH.jpg",
+      "backdrop": "",
+      "urls": [
+        "https://streamwish.to/e/swnsr4174o2u",
+        "https://vidhidepro.com/v/0p8g25b0ugvm"
+      ]
+    },
+    {
+      "id": 33,
+      "tmdbId": 1409853,
+      "title": "Neglected",
+      "year": "2026",
+      "rating": "6.4",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "overview": "El detective Shaw descubre que un asesino en serie ha enterrado vivo a su hijo. Debe resolver tres asesinatos para encontrarle antes de que muera.",
+      "poster": "https://image.tmdb.org/t/p/w500/A0gqKFmJ7OArcFob49PErNvzN66.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg",
+      "urls": [
+        "https://streamwish.to/e/tlzkd78noqq9",
+        "https://vidhidepro.com/v/olml89fwfe96"
+      ]
+    },
+    {
+      "id": 34,
+      "tmdbId": 950028,
+      "title": "La invitación",
+      "year": "2026",
+      "rating": "7.7",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Romance"
+      ],
+      "overview": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+      "poster": "https://image.tmdb.org/t/p/w500/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+      "urls": [
+        "https://streamwish.to/e/mvkznyhlcrcz",
+        "https://vidhidepro.com/v/ftf6w8tbszhv"
+      ]
+    },
+    {
+      "id": 35,
+      "tmdbId": 1642859,
+      "title": "Iron Maiden: Burning Ambition",
+      "year": "2026",
+      "rating": "8.7",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "overview": "Con acceso sin precedentes a los archivos oficiales y recuerdos íntimos de la banda, tanto actuales como del pasado, Iron Maiden: Burning Ambition invita a los fans a vivir uno de los viajes más emblemáticos de la historia de la música. Este electrizante documental, que abarca cinco décadas, narra el ascenso de la banda desde los pubs del este de Londres hasta los estadios más grandes del mundo. Con entrevistas exclusivas a miembros de la banda y colaboradores como Javier Bardem, Lars Ulrich y Chuck D, así como nuevas secuencias animadas de la legendaria mascota de la banda, Eddie, la película ofrece una mirada excepcional e íntima a la visión inquebrantable de Iron Maiden y su conexión inquebrantable con su legión de fans, verdaderamente global.",
+      "poster": "https://image.tmdb.org/t/p/w500/wtXlLK1TSPLfbQZR774xLduLj16.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/52t7nT1f117FW6gdG32DrQKxpU1.jpg",
+      "urls": [
+        "https://streamwish.to/e/xhoo34tcx8tk",
+        "https://vidhidepro.com/v/r41zmrfa1g36"
+      ]
+    },
+    {
+      "id": 36,
+      "tmdbId": 1510479,
+      "title": "Haunting Trophies",
+      "year": "2024",
+      "rating": "7.7",
+      "genres": [
+        "Misterio",
+        "Crimen",
+        "Suspense"
+      ],
+      "overview": "Un joven que camina profundamente en el bosque encuentra un cadáver femenino manipulado de una manera extraña. Sorprendido por el descubrimiento, el hombre se da cuenta de que no está solo en la escena. El asesino empieza a cazarlo para proteger su identidad.",
+      "poster": "https://image.tmdb.org/t/p/w500/wubXNjSHfEl2fSpY8bY7EmHv6hd.jpg",
+      "backdrop": "",
+      "urls": [
+        "https://streamwish.to/e/o2ielwyhg4ox",
+        "https://vidhidepro.com/v/err3tuypyrja"
+      ]
+    },
+    {
+      "id": 37,
+      "tmdbId": 1293162,
+      "title": "Ladrones de carretera",
+      "year": "2025",
+      "rating": "7.5",
+      "genres": [
+        "Crimen",
+        "Suspense",
+        "Western",
+        "Acción"
+      ],
+      "overview": "Tras un enfrentamiento mortal, el agente de la ley Frank Bennett descubre una enorme red de contrabando. Sin servicio de telefonía móvil y sin su camión, Frank se ve obligado a enfrentarse a una peligrosa banda liderada por un ex comandante militar trastornado. Detenerlos antes de que lleguen a la frontera no es sólo su deber, es su única oportunidad de sobrevivir.",
+      "poster": "https://image.tmdb.org/t/p/w500/lw6D3Kil3Kz9qyaKYhC8SWctkOQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vxOUVzvezd6BsLHPgK9c1T2kR2W.jpg",
+      "urls": [
+        "https://streamwish.to/e/jqentobkifkr",
+        "https://vidhidepro.com/v/mv00wf24qd3b"
+      ]
+    },
+    {
+      "id": 38,
+      "tmdbId": 1266127,
+      "title": "Noche de bodas 2",
+      "year": "2026",
+      "rating": "7.6",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "overview": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
+      "poster": "https://image.tmdb.org/t/p/w500/qxVUkNjXjYg63uQkTqM5ES8Ahaw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+      "urls": [
+        "https://streamwish.to/e/cmmx56mvgpzt",
+        "https://vidhidepro.com/v/hds0jctzhdjd"
+      ]
+    },
+    {
+      "id": 39,
+      "tmdbId": 1122573,
+      "title": "En la zona gris",
+      "year": "2026",
+      "rating": "7.6",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "overview": "Un equipo encubierto de agentes de élite viven en la sombra, tan cómodos manejando el poder y la influencia como armas automáticas y explosivos de gran potencia. Cuando un déspota roba una fortuna de mil millones de dólares, son enviados a recuperarla en lo que para cualquier otro sería una misión suicida. Lo que comienza como un atraco imposible empeora aún más y se convierte en una guerra total de estrategia, engaño y supervivencia.",
+      "poster": "https://image.tmdb.org/t/p/w500/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+      "urls": [
+        "https://streamwish.to/e/lm3nmpzrl5iq",
+        "https://vidhidepro.com/v/fdn1mjq7lr9n"
+      ]
+    },
+    {
+      "id": 40,
+      "tmdbId": 1081003,
+      "title": "Supergirl",
+      "year": "2026",
+      "rating": "6.7",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "overview": "Kara Zor-El es una heroína errabunda que decide aliarse a regañadientes con un compañero improbable para comenzar un viaje épico e interestelar de venganza y justicia, en el cual deberá decidir si su fuerza sirve para destruir o para proteger.",
+      "poster": "https://image.tmdb.org/t/p/w500/Ao9ucdnMaBhNt528Z5S4Wxovgnf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+      "urls": [
+        "https://streamwish.to/e/qacr25qeqrca",
+        "https://vidhidepro.com/v/28zq5h9k64xb"
+      ]
+    },
+    {
+      "id": 41,
+      "tmdbId": 1340206,
+      "title": "Un talento único",
+      "year": "2026",
+      "rating": "7.1",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "overview": "Las meticulosas habilidades de un talentoso afinador de pianos le llevan a descubrir una inesperada aptitud para abrir cajas fuertes, lo que pone su vida patas arriba.",
+      "poster": "https://image.tmdb.org/t/p/w500/xIRryl8bWHFaMDssKFcPAXhfrRB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sT5Inhc0aaReSZoufWgfJTQUbKp.jpg",
+      "urls": [
+        "https://streamwish.to/e/lu7aj3rl1gx0",
+        "https://vidhidepro.com/v/w2awsp7newgu"
+      ]
+    },
+    {
+      "id": 42,
+      "tmdbId": 1594914,
+      "title": "Lucky Strike",
+      "year": "2026",
+      "rating": "7.5",
+      "genres": [
+        "Acción",
+        "Bélica"
+      ],
+      "overview": "Un soldado estadounidense herido queda atrapado tras las líneas alemanas durante la Batalla de las Ardenas, en la II Guerra Mundial.",
+      "poster": "https://image.tmdb.org/t/p/w500/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7FivR6OVr56calRq8UyZjmPsVE2.jpg",
+      "urls": [
+        "https://streamwish.to/e/bieumb32877a",
+        "https://vidhidepro.com/v/zuegu48yvdum"
+      ]
+    },
+    {
+      "id": 43,
+      "tmdbId": 1701692,
+      "title": "Killer Curve",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": [
+        "Crimen",
+        "Suspense"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ptWSogzNGNXOUHW9du3F9eyvIvw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m0ZuwNbchDYUzeBW7jRWvURNcNx.jpg",
+      "urls": [
+        "https://streamwish.to/e/4116lw1rq7zl",
+        "https://vidhidepro.com/v/mnq5q94x31qv"
+      ]
+    },
+    {
+      "id": 44,
+      "tmdbId": 1474226,
+      "title": "El vestido",
+      "year": "2026",
+      "rating": "7.0",
+      "genres": [
+        "Terror"
+      ],
+      "overview": "Una mujer y su hija se mudan a una casa nueva en las afueras para intentar empezar de cero, pero lo que empieza como una segunda oportunidad desembocará en una sucesión de eventos extraños.",
+      "poster": "https://image.tmdb.org/t/p/w500/2SoHOeFWgF4pP9yVlEch76ja7r5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hXRw0AVY8avc0koUXj2rMY6q2N8.jpg",
+      "urls": [
+        "https://streamwish.to/e/jhlvkjy821eo",
+        "https://vidhidepro.com/v/6q034689kssc"
+      ]
+    },
+    {
+      "id": 45,
+      "tmdbId": 729684,
+      "title": "A la caza del zorro",
+      "year": "2025",
+      "rating": "7.4",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Drama"
+      ],
+      "overview": "Un par de policías se enfrentan a un cartel internacional de tráfico de dinero.",
+      "poster": "https://image.tmdb.org/t/p/w500/1vX7aXAIw7mSn0G2Y6Jo61FbNAT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hSn77LAWty1YsUlma6DDuyq2pH6.jpg",
+      "urls": [
+        "https://streamwish.to/e/kglyhxnl9vq0",
+        "https://vidhidepro.com/v/p796givmhjrt",
+        "https://streamwish.to/e/lozzcahco6hi",
+        "https://vidhidepro.com/v/lboxfvhfg2d8"
+      ]
+    },
+    {
+      "id": 46,
+      "tmdbId": 1290821,
+      "title": "Shelter: El Protector",
+      "year": "2026",
+      "rating": "7.8",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "overview": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
+      "poster": "https://image.tmdb.org/t/p/w500/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "urls": [
+        "https://streamwish.to/e/9bitv548arfp",
+        "https://vidhidepro.com/v/6hhsa8gadmyh",
+        "https://streamwish.to/e/6s2h3h7i7mkv",
+        "https://vidhidepro.com/v/flaa8tlcajr8"
+      ]
+    },
+    {
+      "id": 47,
+      "tmdbId": 1571598,
+      "title": "Manipulation",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "overview": "Una amenaza omnipresente de manipulación se cierne sobre el mundo. Puede emerger en cualquier lugar, en cualquier momento y por cualquier medio.",
+      "poster": "https://image.tmdb.org/t/p/w500/1x4hItxtqWdzmxeTypyLNIuOwnz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4t2Yhj1Dwkp4YutxySurHIkr4cC.jpg",
+      "urls": [
+        "https://streamwish.to/e/4082z57i2570",
+        "https://vidhidepro.com/v/nn8cjlfio6ch"
+      ]
+    },
+    {
+      "id": 48,
+      "tmdbId": 1308767,
+      "title": "Young Washington",
+      "year": "2026",
+      "rating": "8.2",
+      "genres": [
+        "Historia",
+        "Bélica",
+        "Drama"
+      ],
+      "overview": "Antes de liderar una nación, George Washington era un joven soldado en un conflicto global. Con alianzas desmoronándose y la guerra acercándose, debe elegir en quién confiar y enfrentar al líder en que se está convirtiendo.",
+      "poster": "https://image.tmdb.org/t/p/w500/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+      "urls": [
+        "https://streamwish.to/e/9r0uxlsbps5s",
+        "https://vidhidepro.com/v/r22s855klefu"
+      ]
+    },
+    {
+      "id": 49,
+      "tmdbId": 1371151,
+      "title": "Rastreado",
+      "year": "2025",
+      "rating": "6.4",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "overview": "Jack Guy es un brillante científico que desarrolla una revolucionaria fuente de energía limpia con potencial para cambiar el mundo. Cuando descubre que la empresa para la que trabaja pretende convertir su invento en un arma, decide desaparecer junto con sus investigaciones y vivir oculto lejos de la sociedad. Sin embargo, la compañía logra localizarlo y envía mercenarios para capturarlo. Obligado a luchar por su supervivencia, Jack utiliza su inteligencia, conocimientos técnicos y habilidades de combate para enfrentarse a quienes intentan apoderarse de su creación y evitar que sea utilizada con fines destructivos.",
+      "poster": "https://image.tmdb.org/t/p/w500/p54x9dKLWZQ78aSo5jPf2NodFVs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jpS4Hg1MjXgmIXYZhJwNPVGJaTG.jpg",
+      "urls": [
+        "https://streamwish.to/e/nady1f6wqvys",
+        "https://vidhidepro.com/v/vtmstuxtq202"
+      ]
+    },
+    {
+      "id": 50,
+      "tmdbId": 1291335,
+      "title": "Una novia para mi boda",
+      "year": "2026",
+      "rating": "7.5",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "overview": "Un hombre al que su prometida deja plantado en el altar en Italia decide irse solo de luna de miel.",
+      "poster": "https://image.tmdb.org/t/p/w500/3iOvz9wXGvUCb4no5aIvCq2HmlH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eVXBp5BBskAj0RJ6pDSNPcBs1uI.jpg",
+      "urls": [
+        "https://streamwish.to/e/o3eudmabdriw",
+        "https://vidhidepro.com/v/0kafe0czk6gs",
+        "https://streamwish.to/e/3r07t4jyj07a",
+        "https://vidhidepro.com/v/ik1d2as85s5g"
+      ]
+    },
+    {
+      "id": 51,
+      "tmdbId": 1383731,
+      "title": "Instinto protector",
+      "year": "2026",
+      "rating": "8.5",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "overview": "La vida pacífica de Nikki, una exheroína de guerra, se ve destrozada cuando su hija es secuestrada. Inmersa en el submundo criminal mientras es perseguida por policías y militares, debe luchar para rescatar a su hija.",
+      "poster": "https://image.tmdb.org/t/p/w500/VAH1JuP9FncRg5MNuzPQFQwdhF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg",
+      "urls": [
+        "https://streamwish.to/e/m8yltwaff1q6",
+        "https://vidhidepro.com/v/x7b2erk32um6",
+        "https://streamwish.to/e/txoex9616lxz",
+        "https://vidhidepro.com/v/ioucgvhwunsd"
       ]
     }
   ]
