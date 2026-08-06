@@ -1,5 +1,5 @@
 {
-  "lastId": 51,
+  "lastId": 87,
   "movies": [
     {
       "id": 1,
@@ -930,6 +930,703 @@
         "https://vidhidepro.com/v/x7b2erk32um6",
         "https://streamwish.to/e/txoex9616lxz",
         "https://vidhidepro.com/v/ioucgvhwunsd"
+      ]
+    },
+    {
+      "id": 52,
+      "tmdbId": 339849,
+      "title": "Not Without Hope",
+      "year": "2025",
+      "rating": "6.6",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/3g1WuB4GI2NhoqS7XTpbB5EvfxK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rJ7PB78ZcBaCPxQRLrZxh4M2Z0N.jpg",
+      "urls": [
+        "https://streamwish.to/e/97k9sv344rjw",
+        "https://vidhidepro.com/v/m5lexd8n4q8r"
+      ]
+    },
+    {
+      "id": 53,
+      "tmdbId": 938150,
+      "title": "Red de mentiras",
+      "year": "2026",
+      "rating": "7.3",
+      "genres": [
+        "Suspense",
+        "Crimen"
+      ],
+      "overview": "Cole, un joven brillante que se gana la vida hackeando redes inalámbricas de cajeros automáticos desde su coche, solo ataca a corporaciones anónimas. Pero cuando un timador financiero le obliga a robar a una mujer atrapada en un imperio criminal, su siguiente movimiento podría salvarla, o hacer que ambos mueran.",
+      "poster": "https://image.tmdb.org/t/p/w500/l4eMHiua2to9M9vmq5KjSCR2hec.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fcNno43tiFnaycu1mO9TqfbPL45.jpg",
+      "urls": [
+        "https://streamwish.to/e/4glx4b9kd9lk",
+        "https://vidhidepro.com/v/6jtz76si4xjs"
+      ]
+    },
+    {
+      "id": 54,
+      "tmdbId": 1380291,
+      "title": "Jack Ryan. Guerra encubierta",
+      "year": "2026",
+      "rating": "7.0",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "overview": "En esta nueva película, Jack Ryan se ve empujado de vuelta al espionaje cuando una misión secreta internacional destapa una conspiración mortal. Contra reloj, se une a Mike November y James Greer, sus aliados de la CIA, y a Emma Marlow, una perspicaz agente del MI6, para enfrentarse a una unidad de operaciones encubiertas en una batalla muy personal y arriesgada.",
+      "poster": "https://image.tmdb.org/t/p/w500/dJqv61OB3jsdUEOJTaOGZ64ZLeD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
+      "urls": [
+        "https://streamwish.to/e/5cohl9eb1868",
+        "https://vidhidepro.com/v/5e9v8j0hntr2",
+        "https://streamwish.to/e/ilzhrtfzngw3",
+        "https://vidhidepro.com/v/tvte1ur4yuy6"
+      ]
+    },
+    {
+      "id": 55,
+      "tmdbId": 1642891,
+      "title": "Boy Of Your Dreams 2",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": [
+        "Suspense",
+        "Terror"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/bt6b9l5mcv3VU4pZLiuMLmDLT5f.jpg",
+      "backdrop": "",
+      "urls": [
+        "https://streamwish.to/e/ny2he15dyjk7",
+        "https://vidhidepro.com/v/k9zy62nmj64p"
+      ]
+    },
+    {
+      "id": 56,
+      "tmdbId": 1613798,
+      "title": "Venganza",
+      "year": "2026",
+      "rating": "7.5",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "overview": "Carlos y Miguel son dos soldados de élite de las fuerzas especiales mexicanas y mejores amigos cuyas vidas cambian para siempre cuando Carlos es testigo del brutal asesinato de su esposa por manos de un despiadado asesino. Determinado a buscar justicia, emprende un peligroso viaje de venganza, alimentado por el dolor y armado con una lotería que cambia su vida.",
+      "poster": "https://image.tmdb.org/t/p/w500/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
+      "urls": [
+        "https://streamwish.to/e/e2chc78us6zx",
+        "https://vidhidepro.com/v/c3wf0dsooc2m"
+      ]
+    },
+    {
+      "id": 57,
+      "tmdbId": 1510787,
+      "title": "The Wife Who Knew Too Much",
+      "year": "2025",
+      "rating": "8.0",
+      "genres": [
+        "Suspense",
+        "Película de TV"
+      ],
+      "overview": "La vida aparentemente perfecta de Lisa Clarkson como esposa del entrenador de fútbol americano de la escuela secundaria comienza a desmoronarse cuando una de las mejores amigas de su hija muere atropellada tras la asamblea de ánimo que dio inicio a la nueva temporada. Lisa se debate entre apoyar a su esposo y a la escuela, mientras intenta descubrir la verdad del accidente, que podría implicar al director de la escuela, al mariscal de campo estrella e incluso a su propio esposo.",
+      "poster": "https://image.tmdb.org/t/p/w500/beCS9cOAQdaNzagoV0EupX5bCWG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/iS3ovlQmpHFv4AktQ2KIGHfwrps.jpg",
+      "urls": [
+        "https://vidhidepro.com/v/mgnspg8udqgr"
+      ]
+    },
+    {
+      "id": 58,
+      "tmdbId": 1620996,
+      "title": "La caja azul",
+      "year": "2026",
+      "rating": "7.2",
+      "genres": [
+        "Romance",
+        "Suspense"
+      ],
+      "overview": "Pablo, un joven millonario solitario que vive en la Patagonia, sigue perseguido por un trágico accidente automovilístico que le cambió la vida. Su rutina aislada comienza a cambiar cuando conoce a Lara a través de una aplicación de citas centrada en una premisa peculiar: el intercambio de un objeto misterioso conocido como «la caja azul». A medida que su conexión se profundiza, Lara saca gradualmente a Pablo de su soledad autoimpuesta. Sin embargo, una advertencia anónima pronto plantea interrogantes inquietantes sobre su identidad y sus verdaderas intenciones. Lo que comienza como una relación íntima se convierte rápidamente en un tenso juego psicológico de manipulación y sospecha",
+      "poster": "https://image.tmdb.org/t/p/w500/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9NyHabsIT6aVdLKw7ZYsBn7Vw6R.jpg",
+      "urls": [
+        "https://vidhidepro.com/v/x8c8wdrhhn6q"
+      ]
+    },
+    {
+      "id": 59,
+      "tmdbId": 1290417,
+      "title": "Embestida",
+      "year": "2026",
+      "rating": "6.1",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "overview": "Cuando un catastrófico huracán azota un pueblo costero, el nivel del mar sube rápidamente y sus habitantes deben sobrevivir a un montón de hambrientos tiburones.",
+      "poster": "https://image.tmdb.org/t/p/w500/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hniERZojXCEc7Fp3yljZUigOAhm.jpg",
+      "urls": [
+        "https://vidhidepro.com/v/m0r7ze1owyt5",
+        "https://vidhidepro.com/v/hybi346n7k8d"
+      ]
+    },
+    {
+      "id": 60,
+      "tmdbId": 1101401,
+      "title": "Sugar Baby",
+      "year": "2024",
+      "rating": "5.7",
+      "genres": [
+        "Suspense",
+        "Comedia"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/m0FXCcR79i04zpLPmlgsZLXhwK6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/f5lzYolSecpK6yOikFg8zyrs6iP.jpg",
+      "urls": [
+        "https://vidhidepro.com/v/nwbgaesrkd78"
+      ]
+    },
+    {
+      "id": 61,
+      "tmdbId": 1317288,
+      "title": "Marty Supreme",
+      "year": "2025",
+      "rating": "7.4",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "overview": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
+      "poster": "https://image.tmdb.org/t/p/w500/mijSU0Rws3tBBbhdE5udxPSaZvF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+      "urls": [
+        "https://streamwish.to/e/1i3l74xmzmfn",
+        "https://vidhidepro.com/v/26jmwu9suue1",
+        "https://streamwish.to/e/0bwkvbmvzgln",
+        "https://vidhidepro.com/v/9s4ygt3997ye"
+      ]
+    },
+    {
+      "id": 62,
+      "tmdbId": 1171145,
+      "title": "Ruta de escape",
+      "year": "2026",
+      "rating": "7.0",
+      "genres": [
+        "Crimen",
+        "Suspense"
+      ],
+      "overview": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis está planeando su mayor golpe, con la esperanza de que sea el último, cuando se cruza en su camino Sharon, una desilusionada ejecutiva de seguros con la que se ve obligado a trabajar, y Orman un ladrón rival, con métodos mucho más inquietantes que los de Davis. A medida que se acerca el golpe multimillonario, el implacable teniente Lubesnik, se acerca a la operación, aumentando considerablemente el riesgo de lo que está en juego y difuminando la línea entre cazador y presa. Pronto, cada uno tendrá que aceptar el coste de sus decisiones asumiendo que no hay vuelta atrás.",
+      "poster": "https://image.tmdb.org/t/p/w500/oUF0tTmbwlfkhiYSU5nXJccr5K0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
+      "urls": [
+        "https://streamwish.to/e/6lfqza1lzvnt",
+        "https://vidhidepro.com/v/1l2ohn3bykpx",
+        "https://streamwish.to/e/k3buxm238ymx",
+        "https://vidhidepro.com/v/146eo1fgkn2u"
+      ]
+    },
+    {
+      "id": 63,
+      "tmdbId": 1268127,
+      "title": "Humint",
+      "year": "2026",
+      "rating": "7.5",
+      "genres": [
+        "Suspense",
+        "Acción",
+        "Drama"
+      ],
+      "overview": "Un agente surcoreano investiga una red de narcotráfico en Rusia y debe colaborar con un agente norcoreano, lo cual los lleva correr riesgos y descubrir secretos muy turbios.",
+      "poster": "https://image.tmdb.org/t/p/w500/3xI81SsZHRKY0ltVKbILbvU3wa4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+      "urls": [
+        "https://streamwish.to/e/6pinwsdt2blf",
+        "https://vidhidepro.com/v/8j8aqotpgtmd",
+        "https://streamwish.to/e/bfcwmt050e8e",
+        "https://vidhidepro.com/v/06mazy5yssht"
+      ]
+    },
+    {
+      "id": 64,
+      "tmdbId": 1114072,
+      "title": "Frankenstein. El legado",
+      "year": "2025",
+      "rating": "7.8",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Drama"
+      ],
+      "overview": "Un siglo después del malogrado experimento de Victor Frankenstein, sus diarios han caido en manos de una científica que desea curar la enfermedad de su marido.",
+      "poster": "https://image.tmdb.org/t/p/w500/cnqyaHpZ7CpgKBlmBgbgqyKicJX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jzhQGjzfsrxPwIkSZPMTpfhh27h.jpg",
+      "urls": [
+        "https://streamwish.to/e/87at8rgoh8bf",
+        "https://vidhidepro.com/v/bn0abtdirkcy"
+      ]
+    },
+    {
+      "id": 65,
+      "tmdbId": 1339876,
+      "title": "La mujer policia 3",
+      "year": "2026",
+      "rating": "7.7",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "overview": "Es una carrera contra el tiempo y no habrá piedad. Shivani Shivaji Roy regresa para rescatar a las chicas que desaparecen sin dejar rastro.",
+      "poster": "https://image.tmdb.org/t/p/w500/o9aV83ZxGafGseLK8us9QNKKWzG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pfcyWSaPKGagqdunfBXQYCqZHxx.jpg",
+      "urls": [
+        "https://streamwish.to/e/9llwjkamit32",
+        "https://vidhidepro.com/v/iq678o2gbp33",
+        "https://streamwish.to/e/ciji1do6vq7s",
+        "https://vidhidepro.com/v/my5j8w1hhwk2"
+      ]
+    },
+    {
+      "id": 66,
+      "tmdbId": 467905,
+      "title": "Jugada maestra",
+      "year": "2026",
+      "rating": "7.0",
+      "genres": [
+        "Comedia",
+        "Suspense"
+      ],
+      "overview": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
+      "poster": "https://image.tmdb.org/t/p/w500/xMZkXK0j2HqUplyTXotXOr2SHGx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bkUa5ZDqjQPx6rkxs0hM87vaWVa.jpg",
+      "urls": [
+        "https://streamwish.to/e/230tk3oe6ymt",
+        "https://vidhidepro.com/v/cxldsl5y4f8k"
+      ]
+    },
+    {
+      "id": 67,
+      "tmdbId": 1439112,
+      "title": "Ajuste de cuentas: La ciudad de los lobos",
+      "year": "2025",
+      "rating": "6.6",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Misterio"
+      ],
+      "overview": "Jake Rosser está atormentado por el trastorno de estrés postraumático de sus días como oficial K-9 y se esfuerza por llevar una vida pacífica con su familia y su compañero K-9 retirado, Socks. Pero la tranquilidad se disuelve rápidamente cuando una despiadada banda los persigue en un brutal ataque. Decidido a proteger a sus seres queridos, Jake y su nuevo compañero K-9 «Argos» se adentran en los violentos entresijos de la delincuencia, donde Jake se enfrenta a funcionarios corruptos, descubre una peligrosa red de tráfico de drogas y lucha contra sus propios demonios internos.",
+      "poster": "https://image.tmdb.org/t/p/w500/6oOyMLOP7wL3yl11E6BURRm2eqZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
+      "urls": [
+        "https://streamwish.to/e/hjxvn1k15ui0",
+        "https://vidhidepro.com/v/3ahe2qffz60y",
+        "https://streamwish.to/e/9oo6tfh5fz85",
+        "https://vidhidepro.com/v/wrem8b4k3o8f"
+      ]
+    },
+    {
+      "id": 68,
+      "tmdbId": 1198994,
+      "title": "SEND HELP (Enviad ayuda)",
+      "year": "2026",
+      "rating": "7.0",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Comedia"
+      ],
+      "overview": "Después de que un accidente de avión deje varados en una isla remota a una competente empleada y a su insoportable jefe, ella deberá utilizar sus habilidades de supervivencia para mantenerlos a ambos con vida, a pesar de su difícil relación.",
+      "poster": "https://image.tmdb.org/t/p/w500/qXZZtyzuTX3KMfSLssCR6J0mODd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bpp58yHuQmpt6xwggI63mVRw7po.jpg",
+      "urls": [
+        "https://streamwish.to/e/e0fxok2dg6b1",
+        "https://vidhidepro.com/v/ddwlw6t77455",
+        "https://streamwish.to/e/ej12imapxusa",
+        "https://vidhidepro.com/v/r6eq2k02qn30"
+      ]
+    },
+    {
+      "id": 69,
+      "tmdbId": 1401778,
+      "title": "Turbulencias",
+      "year": "2025",
+      "rating": "6.6",
+      "genres": [
+        "Suspense",
+        "Acción",
+        "Aventura",
+        "Drama",
+        "Fantasía"
+      ],
+      "overview": "Un matrimonio se embarca en una aventura en globo aerostático, pero circunstancias imprevistas provocan situaciones de riesgo vital que ponen a prueba su amor y resistencia mientras luchan por sobrevivir.",
+      "poster": "https://image.tmdb.org/t/p/w500/kdCiVGBmk9IVMT0BPf030hkQB41.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vOV4Qy3g791OTzEndiSGoJwuI2M.jpg",
+      "urls": [
+        "https://streamwish.to/e/061yiig1ckxv",
+        "https://vidhidepro.com/v/sz3112xiyj45",
+        "https://streamwish.to/e/j1t8xub17tc8",
+        "https://vidhidepro.com/v/kthng3ycn9b4"
+      ]
+    },
+    {
+      "id": 70,
+      "tmdbId": 950396,
+      "title": "El abismo secreto",
+      "year": "2025",
+      "rating": "7.7",
+      "genres": [
+        "Romance",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "overview": "Mandan a dos operativos de élite a vigilar lados opuestos de un misterioso abismo y allí intiman desde la distancia, pero deberán aunar fuerzas para sobrevivir al mal que esconde el abismo.",
+      "poster": "https://image.tmdb.org/t/p/w500/bJToUFSmdyDR1qx2hmjXFJld5vK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "urls": [
+        "https://streamwish.to/e/ywn5u34wqgur",
+        "https://vidhidepro.com/v/boyienprmu0x",
+        "https://streamwish.to/e/oio462jovwgq",
+        "https://vidhidepro.com/v/8y0ngwpg4lpz"
+      ]
+    },
+    {
+      "id": 71,
+      "tmdbId": 933260,
+      "title": "La sustancia",
+      "year": "2024",
+      "rating": "7.1",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "overview": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+      "poster": "https://image.tmdb.org/t/p/w500/6zt77tEJUpm2G5bDC7NvzxRho8R.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8ODNt5olCeIqBYTP3GgXEQYTfeX.jpg",
+      "urls": [
+        "https://streamwish.to/e/lr5zna45iun4",
+        "https://vidhidepro.com/v/bdonnblhau16",
+        "https://streamwish.to/e/fokrgel9s9to",
+        "https://vidhidepro.com/v/qdj5vbzkcs1d"
+      ]
+    },
+    {
+      "id": 72,
+      "tmdbId": 1642210,
+      "title": "Pushed Off a Plane and Survived",
+      "year": "2026",
+      "rating": "6.9",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Película de TV"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cfMIooZWp9GsyAGZM4fuvBF03I7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9FW5k0qRcSzb7ApACr0ljSO57aU.jpg",
+      "urls": [
+        "https://streamwish.to/e/h1ez0ffpou4n",
+        "https://vidhidepro.com/v/rp5ku7bp8mb0"
+      ]
+    },
+    {
+      "id": 73,
+      "tmdbId": 1340110,
+      "title": "Redux Redux",
+      "year": "2025",
+      "rating": "6.8",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense",
+        "Terror",
+        "Crimen"
+      ],
+      "overview": "Irene Kelly es una mujer que, en un intento de vengar la muerte de su hija, viaja a través de distintas realidades para matar una y otra vez al asesino. Su obsesión por la venganza pronto se convierte en una adicción que amenaza con poner en jaque la humanidad.",
+      "poster": "https://image.tmdb.org/t/p/w500/xzuvCZNKF2jnZ6amc0SP5AjclNK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nBTUocp7lHmyrTmD8mTBOYem4ok.jpg",
+      "urls": [
+        "https://streamwish.to/e/3feeqw1gyh3b",
+        "https://vidhidepro.com/v/jo9rq3u2j6fo"
+      ]
+    },
+    {
+      "id": 74,
+      "tmdbId": 1368166,
+      "title": "La asistenta",
+      "year": "2025",
+      "rating": "7.3",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ],
+      "overview": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
+      "poster": "https://image.tmdb.org/t/p/w500/tMEu0gniT4zfcyDF5KMjof0DMog.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+      "urls": [
+        "https://streamwish.to/e/thc0vm250214",
+        "https://vidhidepro.com/v/k7g8poq9bktx",
+        "https://streamwish.to/e/6ophalk84hbj",
+        "https://vidhidepro.com/v/xzyct8ksndp5"
+      ]
+    },
+    {
+      "id": 75,
+      "tmdbId": 1419406,
+      "title": "Escuadrón letal",
+      "year": "2025",
+      "rating": "7.9",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "overview": "Unos astutos y traicioneros ladrones desafian a la Policía Judicial de Macao. La Policía, que se encontraba en una dura batalla, invita de nuevo al experto en rastreo Huang De Zhong, retirado desde hace muchos años, a unir fuerzas con la joven élite del Departamento de Investigación Criminal de la Policía Judicial. Bajo la colisión de las técnicas tradicionales de rastreo y la alta tecnología, la policía y los criminales luchan con ingenio y valentía, y se lanzan a un duelo entre el bien y el mal parecido al juego del gato y el ratón.",
+      "poster": "https://image.tmdb.org/t/p/w500/ftBCLqEhDvgKRcux0fk5TriVhMD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+      "urls": [
+        "https://streamwish.to/e/ristp5r2pfhq",
+        "https://vidhidepro.com/v/m0h08z8hhvot"
+      ]
+    },
+    {
+      "id": 76,
+      "tmdbId": 967022,
+      "title": "Abigail",
+      "year": "2023",
+      "rating": "7.5",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/9D7bvzN1Rqx71WfcjEhSmkApUTh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wczgAuhmw26OwfhsmD0cMw9Oufo.jpg",
+      "urls": [
+        "https://streamwish.to/e/veghfj3aqt9k",
+        "https://vidhidepro.com/v/2xkv7ccqugek"
+      ]
+    },
+    {
+      "id": 77,
+      "tmdbId": 1236153,
+      "title": "Sin piedad",
+      "year": "2026",
+      "rating": "7.1",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Suspense"
+      ],
+      "overview": "En un futuro próximo, un detective (Chris Pratt) es acusado de asesinar a su esposa. Tiene 90 minutos para demostrar su inocencia ante la Jueza de la I.A. avanzada (Rebecca Ferguson), a la que él mismo defendió en su día, antes de que esta decida su destino.",
+      "poster": "https://image.tmdb.org/t/p/w500/9zBNg8koM3fjUTPT7QeJHuGG2r9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gIClklFGYBe0uiOoiP2vtocJbss.jpg",
+      "urls": [
+        "https://streamwish.to/e/ati2tkfyaufr",
+        "https://vidhidepro.com/v/mbiwviyxpqqu",
+        "https://streamwish.to/e/6nout4e6e1o0",
+        "https://vidhidepro.com/v/daeetaxx9voe"
+      ]
+    },
+    {
+      "id": 78,
+      "tmdbId": 1560664,
+      "title": "El precio de la violencia",
+      "year": "2025",
+      "rating": "7.0",
+      "genres": [
+        "Suspense",
+        "Acción",
+        "Drama"
+      ],
+      "overview": "Un trabajador del petróleo y su perro emprenden un viaje hacia su boda, pero después de un violento ataque en una parada de descanso, se une a su padre exconvicto para buscar venganza, descubriendo oscuros secretos en su comunidad rural.",
+      "poster": "https://image.tmdb.org/t/p/w500/jRaizO2dTPrKf7VIsitHnvKZW2Z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y6FIMlDgOMSyyfztaF7EfaxlN8a.jpg",
+      "urls": [
+        "https://streamwish.to/e/0et11aokwmrv",
+        "https://vidhidepro.com/v/mvp32s03gwuj"
+      ]
+    },
+    {
+      "id": 79,
+      "tmdbId": 1271895,
+      "title": "96 Minutos",
+      "year": "2025",
+      "rating": "6.2",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "overview": "Un experto en bombas y su prometida suben a un tren que contiene explosivos, mientras un profesor de física envuelto en un escándalo toma el mismo tren con la esperanza de reconciliarse con su esposa, quien partió en un tren anterior.",
+      "poster": "https://image.tmdb.org/t/p/w500/ooCsipqBSXqaGkbRjnzPUW85K32.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dZpnAkiDfOXheFkvIwDFXEzhjeX.jpg",
+      "urls": [
+        "https://streamwish.to/e/r2qib5a8z64p",
+        "https://vidhidepro.com/v/tkbdestlnwab"
+      ]
+    },
+    {
+      "id": 80,
+      "tmdbId": 1291608,
+      "title": "Patriotismo",
+      "year": "2025",
+      "rating": "7.3",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "overview": "A principios de los 2000, en la India, un operativo encubierto se infiltra en el submundo de Karachi (Pakistán) para desmantelar una violenta red criminal. Entre traiciones al estilo shakesperiano y complejas operaciones de espionaje, el patriotismo se pone a prueba hasta el límite.",
+      "poster": "https://image.tmdb.org/t/p/w500/kOLkpkS2T4HAdA6J7uq4eipNTup.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
+      "urls": [
+        "https://streamwish.to/e/4axe3tqemmjg",
+        "https://vidhidepro.com/v/g928wd85ozxe"
+      ]
+    },
+    {
+      "id": 81,
+      "tmdbId": 801937,
+      "title": "Noche de Paz, Noche de Muerte",
+      "year": "2025",
+      "rating": "6.4",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "overview": "Un niño presencia el asesinato de sus padres por de hombre disfrazado de Papá Noel. Años más tarde, ya adulto, se pone él mismo un disfraz de Papá Noel y se embarca en una violenta búsqueda de venganza contra los responsables.",
+      "poster": "https://image.tmdb.org/t/p/w500/ecpETxTPyVFai17hMMoFGy1ruLO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bOHF8j3A5FadUl1eDaVpWW1w3xY.jpg",
+      "urls": [
+        "https://streamwish.to/e/rrrknpambpx0",
+        "https://vidhidepro.com/v/ccgc331e7gnw"
+      ]
+    },
+    {
+      "id": 82,
+      "tmdbId": 1339658,
+      "title": "Oh, Hi!",
+      "year": "2025",
+      "rating": "6.3",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Suspense"
+      ],
+      "overview": "La primera escapada romántica de fin de semana de Iris e Isaac se tuerce de la forma más inesperada. Cuando la relación se desmorona, la desesperada esperanza de Iris de que la reticencia de su novio a comprometerse sea simplemente confusión la lleva a tomar medidas cada vez más desquiciadas para consolidar la relación.",
+      "poster": "https://image.tmdb.org/t/p/w500/dHzsxIZhbxNoKSWJ4FAj0jeeDaV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1YeNl4OexgoTqCbwXEYg4ujZmYt.jpg",
+      "urls": [
+        "https://streamwish.to/e/nynb6vwdappa",
+        "https://vidhidepro.com/v/rp5djmrcjzfb"
+      ]
+    },
+    {
+      "id": 83,
+      "tmdbId": 989672,
+      "title": "Solo para mi",
+      "year": "2023",
+      "rating": "6.9",
+      "genres": [
+        "Suspense",
+        "Drama",
+        "Romance"
+      ],
+      "overview": "Cuando Blanche Renard conoce a Greg Lamoureux, cree haber encontrado al hombre indicado. Los lazos que los unen crecen rápidamente; están atrapados en una gran pasión. Ignorando sus miedos, Blanche abandona a su familia y a su hermana gemela, Rose, con sueños de reinventarse a sí misma, y poco a poco se encuentra atrapada en las garras de un hombre profundamente posesivo y peligroso. Un hombre al que no se atreve a denunciar por vergüenza, por miedo. Porque la influencia tiene sólo dos resultados posibles. O la víctima se derrumba o se libera... Adaptación de la novela homónima de Eric Reinhardt.",
+      "poster": "https://image.tmdb.org/t/p/w500/qMvQGBZD5R8ywLJjasB0XhshoBT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/81xLmjnYHgmumzZJc4z4JCK6tWa.jpg",
+      "urls": [
+        "https://streamwish.to/e/t28zbuurg0f5",
+        "https://vidhidepro.com/v/d0zasl67k5lv"
+      ]
+    },
+    {
+      "id": 84,
+      "tmdbId": 972533,
+      "title": "Sin oxígeno",
+      "year": "2025",
+      "rating": "6.9",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "overview": "La increíble historia real de Chris Lemons (Finn Cole), un buzo profesional que, tras un extraño accidente, queda atrapado en el fondo del Mar del Norte. Con tan solo 10 minutos de oxígeno de emergencia y a más de media hora de cualquier esperanza de rescate, esta es la lucha imposible de un hombre por sobrevivir a 90 metros de profundidad. Mientras tanto, en la superficie, sus compañeros Duncan (Woody Harrelson) y Dave (Simu Liu) lucharán contra una feroz tormenta y harán todo lo posible por rescatarlo con vida.",
+      "poster": "https://image.tmdb.org/t/p/w500/bgcf7lci3pwWSMgHNBlqDDQbyJJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/661n67NhaW12hC2ux7Tm2KgR1u1.jpg",
+      "urls": [
+        "https://streamwish.to/e/bhs8f4nll4aw",
+        "https://vidhidepro.com/v/2496e3y5q1ke",
+        "https://streamwish.to/e/jp9gsqctx54i",
+        "https://vidhidepro.com/v/as2vo4k42crd"
+      ]
+    },
+    {
+      "id": 85,
+      "tmdbId": 1244531,
+      "title": "Tiburón blanco: La bestia del mar",
+      "year": "2025",
+      "rating": "6.1",
+      "genres": [
+        "Suspense",
+        "Acción",
+        "Bélica",
+        "Terror"
+      ],
+      "overview": "Un grupo de jóvenes soldados australianos naufraga en plena Segunda Guerra Mundial mientras cruza el mar de Timor. Atrapados en una balsa que se hace cada vez más pequeña, deberán sobrevivir a las aguas implacables, a sus propios conflictos, a los ataques enemigos y a la amenaza constante de un enorme y hambriento tiburón blanco.",
+      "poster": "https://image.tmdb.org/t/p/w500/58xC3Vj5Td1UXhNaOQDOj2ygAH6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gHdSsZ1Bs8dCcflFwZg7nFMTW73.jpg",
+      "urls": [
+        "https://streamwish.to/e/ogpe1yod25px",
+        "https://vidhidepro.com/v/0oo5torcd9ih"
+      ]
+    },
+    {
+      "id": 86,
+      "tmdbId": 1399525,
+      "title": "Rose of Nevada",
+      "year": "2026",
+      "rating": "6.6",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "overview": "En un olvidado pueblo pesquero, un barco aparece misteriosamente en el viejo puerto. La Rosa de Nevada, perdida en el mar con todos sus tripulantes hace 30 años, ha regresado. Para los pocos que lo recuerdan, es una señal: La Rosa de Nevada debe volver a hacerse a la mar: quizá entonces cambie la suerte del devastado pueblo. Nick acepta un trabajo a bordo del barco en un intento de mantener a su joven familia. Junto a él, el recién llegado Liam se une a la tripulación, desesperado por escapar de su pasado. Se hacen a la mar y, tras un exitoso viaje, regresan a puerto. Pero algo va mal. Han retrocedido en el tiempo y los aldeanos les reciben como si fueran la tripulación original.",
+      "poster": "https://image.tmdb.org/t/p/w500/p6fwN1jCGUpkJQb42glKAjGy06i.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vsMIKd2VrRuTAQ9Xp2kYF9Nic2O.jpg",
+      "urls": [
+        "https://streamwish.to/e/xgd23hnlz7pb",
+        "https://vidhidepro.com/v/2stv2to1k2f9"
+      ]
+    },
+    {
+      "id": 87,
+      "tmdbId": 1242898,
+      "title": "Predator: Badlands",
+      "year": "2025",
+      "rating": "7.8",
+      "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "overview": "Un joven Predator rechazado por su clan encuentra un aliado inesperado en Thia y emprende un peligroso viaje en busca del adversario definitivo.",
+      "poster": "https://image.tmdb.org/t/p/w500/8nCEJ5hFJt0h8FhXafHGhEhT8d7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+      "urls": [
+        "https://streamwish.to/e/yeoyldvci1hq",
+        "https://vidhidepro.com/v/nk7pdzujr2c1",
+        "https://streamwish.to/e/f85d251tm6ng",
+        "https://vidhidepro.com/v/ww7kjpjvceua"
       ]
     }
   ]
