@@ -1,5 +1,5 @@
 {
-  "lastId": 87,
+  "lastId": 108,
   "movies": [
     {
       "id": 1,
@@ -1627,6 +1627,408 @@
         "https://vidhidepro.com/v/nk7pdzujr2c1",
         "https://streamwish.to/e/f85d251tm6ng",
         "https://vidhidepro.com/v/ww7kjpjvceua"
+      ]
+    },
+    {
+      "id": 88,
+      "tmdbId": 982843,
+      "title": "El gran diluvio",
+      "year": "2025",
+      "rating": "6.0",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Drama"
+      ],
+      "overview": "En el que podría ser el último día en la Tierra, una lucha a vida o muerte en un piso inundado se convierte en la única esperanza de supervivencia de la humanidad.",
+      "poster": "https://image.tmdb.org/t/p/w500/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/218MafWtM9XpPRuNdh0uhrNezi5.jpg",
+      "urls": [
+        "https://streamwish.to/e/a0ap0r1sipib",
+        "https://vidhidepro.com/v/vdbype4b19yr",
+        "https://streamwish.to/e/fpdg15et0d77",
+        "https://vidhidepro.com/v/sl4f4q8puojs"
+      ]
+    },
+    {
+      "id": 89,
+      "tmdbId": 866124,
+      "title": "Historias invisibles",
+      "year": "2024",
+      "rating": "7.2",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Una madre trabajadora convencional encarará una lucha por la búsqueda de su hija, quien fue secuestrada por una red de trata de personas. Graciela batallará contra la corrupción, la burocracia y la mafia, con la esperanza de encontrar algún día a su hija.",
+      "poster": "https://image.tmdb.org/t/p/w500/wCOe1x1UOebnNKIRVNmnchjVGYv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uIqIH5zr6iSTXSJYkDaMyGhTG30.jpg",
+      "urls": [
+        "https://streamwish.to/e/92zvmvp24rxf",
+        "https://vidhidepro.com/v/gtzsbgdu6v8g"
+      ]
+    },
+    {
+      "id": 90,
+      "tmdbId": 614945,
+      "title": "Mensajes de voz para Isabelle",
+      "year": "2026",
+      "rating": "8.4",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ],
+      "overview": "Una joven deja mensajes de voz bastante explícitos a su difunta hermana, sin saber que los recibe un desconocido que comienza a enamorarse de ella.",
+      "poster": "https://image.tmdb.org/t/p/w500/ohIYxdaO7WV1zsSPFZVddWNEWkk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+      "urls": [
+        "https://streamwish.to/e/7k2wu3htm6mb",
+        "https://vidhidepro.com/v/4gkno5ualrbz",
+        "https://streamwish.to/e/bwsjj9xyhns8",
+        "https://vidhidepro.com/v/hea1tm8uggzv"
+      ]
+    },
+    {
+      "id": 91,
+      "tmdbId": 1367642,
+      "title": "No te olvidaré",
+      "year": "2026",
+      "rating": "7.8",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "overview": "Cuando los abuelos y tutores de Diem se niegan categóricamente a permitir que la vea, Kenna descubre una compasión inesperada seguida de un sentimiento más profundo y real con Ledger, exjugador de la NFL y propietario de un bar local. A medida que su romance secreto va cobrando forma, surgen problemas para los dos, lo que llevará a Kenna a una situación sentimental desoladora y, en último término, a reavivar la esperanza de una segunda oportunidad.",
+      "poster": "https://image.tmdb.org/t/p/w500/iPJ4V6o5PttdBmHoehdOtWqQ6gx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
+      "urls": [
+        "https://streamwish.to/e/3eijjh45vktf",
+        "https://vidhidepro.com/v/gsk8q2yu8mld",
+        "https://streamwish.to/e/lybqg3g3zooc",
+        "https://vidhidepro.com/v/cemsenh20fg0"
+      ]
+    },
+    {
+      "id": 92,
+      "tmdbId": 1273221,
+      "title": "Scary Movie",
+      "year": "2026",
+      "rating": "6.5",
+      "genres": [
+        "Comedia"
+      ],
+      "overview": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "poster": "https://image.tmdb.org/t/p/w500/qhGf7btEU9hcGz3A0lneNptJKL7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+      "urls": [
+        "https://streamwish.to/e/yceycz87sjtc",
+        "https://vidhidepro.com/v/brces8d4d145"
+      ]
+    },
+    {
+      "id": 93,
+      "tmdbId": 1469033,
+      "title": "Sugarcreek Amish Mysteries: Blessings in Disguise",
+      "year": "2025",
+      "rating": "7.5",
+      "genres": [
+        "Misterio"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/6xVMjv0n8u9zXNakh6VbeKeQL9S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/84MgNwHSplo6p6kKCwOGhrXTsJK.jpg",
+      "urls": [
+        "https://streamwish.to/e/8tendkm4zvhq",
+        "https://vidhidepro.com/v/8umttnnn5f03"
+      ]
+    },
+    {
+      "id": 94,
+      "tmdbId": 1668364,
+      "title": "Deseo",
+      "year": "2026",
+      "rating": "6.7",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "overview": "Una abogada casada tiene una aventura con el entrenador de natación de su hija, y su tórrido romance acaba en un juego retorcido en el que todos pierden el control.",
+      "poster": "https://image.tmdb.org/t/p/w500/hzyByMOgLeYwu13fusOwIPJwMNV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
+      "urls": [
+        "https://streamwish.to/e/p5x9jodka3dd",
+        "https://vidhidepro.com/v/49w7zfqi2c56"
+      ]
+    },
+    {
+      "id": 95,
+      "tmdbId": 1304313,
+      "title": "La momia de Lee Cronin",
+      "year": "2026",
+      "rating": "7.9",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "overview": "Nueva versión del clásico 'La momia'. La joven hija de un periodista desaparece en el desierto sin dejar rastro. Ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
+      "poster": "https://image.tmdb.org/t/p/w500/btXGqRlctQdbML6ifPmacZuykcC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+      "urls": [
+        "https://streamwish.to/e/nfae5l031skm",
+        "https://vidhidepro.com/v/pds4g1yfrufd"
+      ]
+    },
+    {
+      "id": 96,
+      "tmdbId": 1159559,
+      "title": "Scream 7",
+      "year": "2026",
+      "rating": "6.2",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Crimen"
+      ],
+      "overview": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
+      "poster": "https://image.tmdb.org/t/p/w500/jgJCp2TOtTMGWS766tQhNcuFhjs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
+      "urls": [
+        "https://streamwish.to/e/1k342lbbvemq",
+        "https://vidhidepro.com/v/kcdok4btw168",
+        "https://streamwish.to/e/q2d9bwt2cacm",
+        "https://vidhidepro.com/v/p58vj6qfpzot"
+      ]
+    },
+    {
+      "id": 97,
+      "tmdbId": 1456349,
+      "title": "Un simple accidente",
+      "year": "2025",
+      "rating": "7.2",
+      "genres": [
+        "Drama",
+        "Suspense",
+        "Crimen",
+        "Misterio"
+      ],
+      "overview": "Un hombre conduce de noche con su esposa embarazada cuando atropella y mata a un perro, lo que le obliga a llevar el coche a un taller dirigido por un hombre que se parece al oficial que lo torturó en prisión.",
+      "poster": "https://image.tmdb.org/t/p/w500/xEOFCfTqmee7nmuC2r4UEsMI39a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zhoMwQofjgVec5Sin05hWECJtVQ.jpg",
+      "urls": [
+        "https://streamwish.to/e/f19bh5xxd0cr",
+        "https://vidhidepro.com/v/wqmo5953l4e3"
+      ]
+    },
+    {
+      "id": 98,
+      "tmdbId": 1168190,
+      "title": "Los hermanos demolición",
+      "year": "2026",
+      "rating": "7.1",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Crimen",
+        "Misterio"
+      ],
+      "overview": "Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.",
+      "poster": "https://image.tmdb.org/t/p/w500/ttEESBvVrO8ngZr19qp6eBMVS9F.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+      "urls": [
+        "https://streamwish.to/e/yne7j1mikyga",
+        "https://vidhidepro.com/v/rxb23owgd1kp",
+        "https://streamwish.to/e/6jjg86wkb96w",
+        "https://vidhidepro.com/v/wnzhbzopy452"
+      ]
+    },
+    {
+      "id": 99,
+      "tmdbId": 955897,
+      "title": "La chica perdida",
+      "year": "2025",
+      "rating": "6.8",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Misterio"
+      ],
+      "overview": "Una joven sigue una misteriosa melodía hasta una remota isla de mareas. Cuando vuelve a cruzar en la próxima marea baja, emerge a un mundo en el que han pasado 25 años.",
+      "poster": "https://image.tmdb.org/t/p/w500/cHLTwNaH3jAmrDKZ0Tjy1oZR3T8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7SnBO0GdQ5cNvq8eW6xv5aTmcGB.jpg",
+      "urls": [
+        "https://streamwish.to/e/hx9bqjtx4ykz",
+        "https://vidhidepro.com/v/7nt43unyn0vj"
+      ]
+    },
+    {
+      "id": 100,
+      "tmdbId": 1078605,
+      "title": "Weapons",
+      "year": "2025",
+      "rating": "7.3",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "overview": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+      "poster": "https://image.tmdb.org/t/p/w500/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8VyTWJrNEyV2MTWvniDVp0MpOAe.jpg",
+      "urls": [
+        "https://streamwish.to/e/fct3wcxg8uxs",
+        "https://vidhidepro.com/v/6wtqu3a1z1es"
+      ]
+    },
+    {
+      "id": 101,
+      "tmdbId": 1290879,
+      "title": "La mujer del camarote 10",
+      "year": "2025",
+      "rating": "6.2",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Crimen"
+      ],
+      "overview": "A bordo de un lujoso yate por motivos de trabajo, una periodista ve como alguien cae al mar. Pero cuando nadie la cree, decide arriesgar su propia vida para descubrir la verdad.",
+      "poster": "https://image.tmdb.org/t/p/w500/lUJIBUjEab71fJ8U9gs0NouUJ18.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9IHZeCusOd7RUaQpUrQJlKqjsUZ.jpg",
+      "urls": [
+        "https://streamwish.to/e/7kdslb58981u",
+        "https://vidhidepro.com/v/iouhuaf4zkfb",
+        "https://streamwish.to/e/wqflql7hoau6",
+        "https://vidhidepro.com/v/4oijrvqslvgj"
+      ]
+    },
+    {
+      "id": 102,
+      "tmdbId": 574475,
+      "title": "Destino final: Lazos de sangre",
+      "year": "2025",
+      "rating": "7.0",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "overview": "Acosada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie se dirige a casa para localizar a la única persona que podría ser capaz de romper el ciclo y salvar a su familia de la espeluznante muerte que inevitablemente les espera a todos.",
+      "poster": "https://image.tmdb.org/t/p/w500/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+      "urls": [
+        "https://streamwish.to/e/88fbveymnsgy",
+        "https://vidhidepro.com/v/ey2txnmqpavz",
+        "https://streamwish.to/e/mlutyscc3rdz",
+        "https://vidhidepro.com/v/i0zj4ft4razg"
+      ]
+    },
+    {
+      "id": 103,
+      "tmdbId": 1147266,
+      "title": "Morirás en 6 horas",
+      "year": "2024",
+      "rating": "6.4",
+      "genres": [
+        "Suspense",
+        "Misterio"
+      ],
+      "overview": "Jeong Yoon camina por una calle, cuando un extraño la detiene y le dice que morirá en 6 horas. El extraño es Joon Woo y afirma poder ver su futuro. Para cambiar su futuro, Jeong Yoon intenta encontrar a la persona que la matará en 6 horas.",
+      "poster": "https://image.tmdb.org/t/p/w500/tmZXiSht2bFjowcS2fMeI6mFFC1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yPf0rHXOiudd95otYcAiQUWHY5w.jpg",
+      "urls": [
+        "https://streamwish.to/e/t73acmp8piew",
+        "https://vidhidepro.com/v/ry0ezrvjtyr1"
+      ]
+    },
+    {
+      "id": 104,
+      "tmdbId": 1266675,
+      "title": "Una ballena",
+      "year": "2025",
+      "rating": "6.5",
+      "genres": [
+        "Misterio"
+      ],
+      "overview": "Ingrid, una sicaria con una habilidad especial para infiltrarse y desaparecer sin dejar rastro que proviene de otro mundo, recibe el encargo de Melville para eliminar a un poderoso hombre de negocios que ha llegado a la ciudad y quiere hacerse con el control del puerto.",
+      "poster": "https://image.tmdb.org/t/p/w500/qwf9zfHVdpDRHqerMwZ2NtXItDY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9M6OTFwCSohr0rT7cRxlxTkQcq3.jpg",
+      "urls": [
+        "https://streamwish.to/e/j6o6c2l79ft9",
+        "https://vidhidepro.com/v/uup0wkoz77ot"
+      ]
+    },
+    {
+      "id": 105,
+      "tmdbId": 870028,
+      "title": "El contable 2",
+      "year": "2025",
+      "rating": "7.1",
+      "genres": [
+        "Misterio",
+        "Crimen",
+        "Suspense"
+      ],
+      "overview": "Cuando un viejo conocido es asesinado, Wolff se ve obligado a resolver el caso. Al darse cuenta de que son necesarias medidas más extremas, Wolff recluta a su hermano Brax, distanciado y muy letal, para que le ayude. En colaboración con Marybeth Medina, descubren una conspiración mortal y se convierten en objetivo de una despiadada red de asesinos que no se detendrán ante nada para mantener sus secretos enterrados.",
+      "poster": "https://image.tmdb.org/t/p/w500/jcV9YfjBRo6occxqeWtEiyWwMoG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
+      "urls": [
+        "https://streamwish.to/e/qmn65beqjkde",
+        "https://vidhidepro.com/v/7mze5ztqfxes",
+        "https://streamwish.to/e/wdv28p8210gs",
+        "https://vidhidepro.com/v/z8646vftbqu2"
+      ]
+    },
+    {
+      "id": 106,
+      "tmdbId": 568770,
+      "title": "Poseída",
+      "year": "2025",
+      "rating": "7.2",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "overview": "Un ser oscuro y siniestro entra en el cuerpo de un niño inocente.",
+      "poster": "https://image.tmdb.org/t/p/w500/jrBNsLaIZgtV01WhG2HSiXvVuoF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/j7b27zJOkjLylvjxFEd7Hc7BRfz.jpg",
+      "urls": [
+        "https://streamwish.to/e/6s1wja4q0dg3",
+        "https://vidhidepro.com/v/cqf58ev3t2u8"
+      ]
+    },
+    {
+      "id": 107,
+      "tmdbId": 1078812,
+      "title": "Lifeline",
+      "year": "2025",
+      "rating": "6.9",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Drama"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/epOQz87kzBnxDZMrgYCmFuDZXNx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/36WVHSEUnBNDEQL2wo0Iqnz2z1g.jpg",
+      "urls": [
+        "https://streamwish.to/e/mqnvh6kr1aps",
+        "https://bysejikuar.com/e/37cjylu0c8mm"
+      ]
+    },
+    {
+      "id": 108,
+      "tmdbId": 1477551,
+      "title": "Desire: A Temptations Story",
+      "year": "2025",
+      "rating": "9.3",
+      "genres": [
+        "Misterio",
+        "Suspense",
+        "Película de TV"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/iO0mG9cGMjuruDCOscNy1llZq3w.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3f0b3YzmFMQAM16O7HdO7g3gl1t.jpg",
+      "urls": [
+        "https://streamwish.to/e/dzcgathq5jp1",
+        "https://bysejikuar.com/e/5pthcglruns3"
       ]
     }
   ]
