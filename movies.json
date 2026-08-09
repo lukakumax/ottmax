@@ -1,5 +1,5 @@
 {
-  "lastId": 108,
+  "lastId": 130,
   "movies": [
     {
       "id": 1,
@@ -566,7 +566,7 @@
         "Acción",
         "Bélica"
       ],
-      "overview": "",
+      "overview": "Cuando una misión de rescate encubierta sale mal, cuatro exmiembros de los Navy SEAL son capturados y arrojados a un combate a muerte clandestino. Bajo la mirada de multimillonarios depravados, se ven obligados a luchar en un torneo brutal. Sin armas ni vía de escape, el equipo deberá confiar en su entrenamiento y en su vínculo inquebrantable para sobrevivir en la sangrienta arena, desmantelar toda la operación y recuperar su libertad.",
       "poster": "https://image.tmdb.org/t/p/w500/znWUESPFa1QlvHii4Zc6d0pUxmH.jpg",
       "backdrop": "",
       "urls": [
@@ -2029,6 +2029,423 @@
       "urls": [
         "https://streamwish.to/e/dzcgathq5jp1",
         "https://bysejikuar.com/e/5pthcglruns3"
+      ]
+    },
+    {
+      "id": 109,
+      "tmdbId": 277834,
+      "title": "Vaiana",
+      "year": "2016",
+      "rating": "7.6",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Familia",
+        "Animación"
+      ],
+      "overview": "Una gran aventura acerca de una enérgica adolescente que se embarca en una misión audaz para salvar a su pueblo de una antigua y misteriosa amenaza, en un viaje de autodescubrimiento. La acompañará el arrogante semidiós Maui, quien la guiará en su travesía por el océano en un viaje lleno de acción, plagado de temibles criaturas e imposibles desafíos para restaurar el orden perdido.",
+      "poster": "https://image.tmdb.org/t/p/w500/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qLVNZFHYUR6Li64He67SWl6BHQe.jpg",
+      "urls": [
+        "https://streamwish.to/e/efa28tg1xoy2",
+        "https://vidhidepro.com/v/pyv5t735qf2a",
+        "https://streamwish.to/e/fdn0s0793uf3"
+      ]
+    },
+    {
+      "id": 110,
+      "tmdbId": 1108427,
+      "title": "Vaiana",
+      "year": "2026",
+      "rating": "5.9",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia",
+        "Aventura"
+      ],
+      "overview": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "poster": "https://image.tmdb.org/t/p/w500/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "urls": [
+        "https://streamwish.to/e/k6f4irwoe7bb",
+        "https://vidhidepro.com/v/vylg525gdb2n"
+      ]
+    },
+    {
+      "id": 111,
+      "tmdbId": 1241982,
+      "title": "Vaiana 2",
+      "year": "2024",
+      "rating": "7.0",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Fantasía"
+      ],
+      "overview": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
+      "poster": "https://image.tmdb.org/t/p/w500/bit1B5F7IQydiWqdwAAD8f9TkXs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vYqt6kb4lcF8wwqsMMaULkP9OEn.jpg",
+      "urls": [
+        "https://streamwish.to/e/ootvg7i78igs",
+        "https://vidhidepro.com/v/6f5quykvyag0",
+        "https://streamwish.to/e/jxwc3q6hioyy",
+        "https://vidhidepro.com/v/zrte80fudszd"
+      ]
+    },
+    {
+      "id": 112,
+      "tmdbId": 1284041,
+      "title": "La última casa",
+      "year": "2026",
+      "rating": "6.6",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "overview": "Una familia encerrada en su casa misteriosamente tendrá que unirse para sobrevivir a la escasez de recursos y a la siniestra amenaza que no los deja salir.",
+      "poster": "https://image.tmdb.org/t/p/w500/CIGQ7ONbNaSDK3KGkXjBILcj1d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2mPmccLg8QCD4ZF6v8kSsUijPPW.jpg",
+      "urls": []
+    },
+    {
+      "id": 113,
+      "tmdbId": 1659193,
+      "title": "Instante",
+      "year": "2026",
+      "rating": "0.0",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "overview": "Dos historias se entrelazan en el instante en que la vida cambia para siempre. Entre diagnósticos, despedidas, terapias y nuevas oportunidades, cuatro personas descubren que el amor no siempre llega cuando lo esperamos… pero siempre llega cuando lo necesitamos.",
+      "poster": "https://image.tmdb.org/t/p/w500/tlYPI1CdNUKx4zsEtGX8hFfGNSA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4motxjvs004yxSho4rIxqEvNBmI.jpg",
+      "urls": [
+        "https://streamwish.to/e/cddooi1u896t",
+        "https://vidhidepro.com/v/sa43f54sgayk"
+      ]
+    },
+    {
+      "id": 114,
+      "tmdbId": 1477712,
+      "title": "Dulce sabor a muerte",
+      "year": "2026",
+      "rating": "5.3",
+      "genres": [
+        "Terror"
+      ],
+      "overview": "Un pueblo veraniego ideal cae en la locura cuando un heladero sirve a los niños dulces delicias con resultados terroríficos.",
+      "poster": "https://image.tmdb.org/t/p/w500/42k9fYJX7RMCxA4w2YVRv393dRG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
+      "urls": [
+        "https://streamwish.to/e/rns9mi4yapte",
+        "https://vidhidepro.com/v/dltbs08na47o"
+      ]
+    },
+    {
+      "id": 115,
+      "tmdbId": 1599993,
+      "title": "Animales",
+      "year": "2026",
+      "rating": "0.0",
+      "genres": [
+        "Comedia",
+        "Suspense"
+      ],
+      "overview": "Un grupo de amigos que se conocen de toda la vida descubre que hay puertas que nunca se deben de abrir. Lo que empieza como un juego de deseo se convierte en una espiral de celos, mentiras y traiciones que arrasa con sus relaciones. Muy pronto entenderán que todos tenemos un lado animal.",
+      "poster": "https://image.tmdb.org/t/p/w500/wOnhgV3RZJhpOMA5b3LWBcfMncB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3jgATRIFenOrgNKEC9bFv5QqKGf.jpg",
+      "urls": [
+        "https://streamwish.to/e/7up3pbszltnf",
+        "https://vidhidepro.com/v/5m4c4e1y8mol"
+      ]
+    },
+    {
+      "id": 116,
+      "tmdbId": 1360865,
+      "title": "Psychic Storm",
+      "year": "2025",
+      "rating": "5.7",
+      "genres": [
+        "Suspense"
+      ],
+      "overview": "Mientras unas ondas psíquicas arrasan las ciudades de la Tierra, un clarividente une fuerzas con un investigador y un científico para evitar la destrucción global. Su misión saca a la luz oscuras conspiraciones mientras la realidad se desmorona a su alrededor.",
+      "poster": "https://image.tmdb.org/t/p/w500/2mmygNYWUsRJgJwF79pmScr9KrC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/moqCrBCrqyogMqow5kMTo4yqgDq.jpg",
+      "urls": [
+        "https://streamwish.to/e/rj12fsk9k6kf",
+        "https://vidhidepro.com/v/bijeettcem9v"
+      ]
+    },
+    {
+      "id": 117,
+      "tmdbId": 1339588,
+      "title": "Finding Emily",
+      "year": "2026",
+      "rating": "6.8",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "overview": "Cuando a un músico enamorado le dan el número equivocado de la chica de sus sueños, acaba haciendo equipo con una estudiante de psicología para encontrarla. Juntos desencadenan un hilarante frenesí por todo el campus, que pone a prueba sus propios corazones y ambiciones.",
+      "poster": "https://image.tmdb.org/t/p/w500/jIjj0H2kobklKcyNHyrDj6WD2xw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
+      "urls": [
+        "https://streamwish.to/e/akyvn9bax2dh",
+        "https://vidhidepro.com/v/x8melq3ltuvo"
+      ]
+    },
+    {
+      "id": 118,
+      "tmdbId": 1698575,
+      "title": "Snoopy presenta: Hogar, dulce hogar",
+      "year": "2026",
+      "rating": "8.1",
+      "genres": [
+        "Animación",
+        "Familia"
+      ],
+      "overview": "Cuando la querida caseta de Snoopy desaparece, intenta encontrarla y descubre qué hace que una casa sea un hogar.",
+      "poster": "https://image.tmdb.org/t/p/w500/dEXPxwI0yi41pwbG94I1PRaeVZq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
+      "urls": [
+        "https://streamwish.to/e/qb7k9fh71up7",
+        "https://vidhidepro.com/v/yrhfz20onct5"
+      ]
+    },
+    {
+      "id": 119,
+      "tmdbId": 1323437,
+      "title": "BRAINBUGS",
+      "year": "2025",
+      "rating": "0.0",
+      "genres": [
+        "Suspense"
+      ],
+      "overview": "Un repartidor de comida se ve arrastrado a regañadientes al centro de una trama criminal. Cuando el trabajo sale mal, su agilidad mental y su elocuencia son las únicas herramientas que lo protegen de su captor y de un destino cada vez más incierto.",
+      "poster": "https://image.tmdb.org/t/p/w500/uufzWoOfhLLjGJUtdzT7SK43YGP.jpg",
+      "backdrop": "",
+      "urls": [
+        "https://streamwish.to/e/l8q37as7dibq",
+        "https://vidhidepro.com/v/yvrmjzyo5oo2"
+      ]
+    },
+    {
+      "id": 120,
+      "tmdbId": 1284016,
+      "title": "Letras robadas",
+      "year": "2026",
+      "rating": "7.0",
+      "genres": [
+        "Comedia",
+        "Música",
+        "Drama"
+      ],
+      "overview": "Rick, un cantante de bodas venido a menos, y Danny, una estrella de una 'boy band' en decadencia, forjan una amistad gracias a la música y a una improvisada sesión nocturna. Cuando Danny convierte la canción de Rick en un éxito, Rick se propone recuperar el reconocimiento que cree merecer.",
+      "poster": "https://image.tmdb.org/t/p/w500/oYqsgYCaPjCvd3NPE43yNbhgCtG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
+      "urls": [
+        "https://streamwish.to/e/66v61h1kxezh",
+        "https://vidhidepro.com/v/trjkug82cfme"
+      ]
+    },
+    {
+      "id": 121,
+      "tmdbId": 1426940,
+      "title": "Above the Line",
+      "year": "2025",
+      "rating": "7.4",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Crimen",
+        "Drama"
+      ],
+      "overview": "Seis aspirantes a estrellas de Hollywood que atraviesan dificultades se alían para lograr un regreso triunfal, planeando robar las estatuillas del Óscar al productor corrupto que truncó sus sueños.",
+      "poster": "https://image.tmdb.org/t/p/w500/gOC89NMH4vFcbtqwc7mx9EWxap1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2EsRplRfwXA6sX0SWWZPEjzcuWu.jpg",
+      "urls": [
+        "https://streamwish.to/e/fc9ydfmpalhd",
+        "https://vidhidepro.com/v/lam320nyqr4u"
+      ]
+    },
+    {
+      "id": 122,
+      "tmdbId": 1147610,
+      "title": "Gangland",
+      "year": "2025",
+      "rating": "6.9",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Drama"
+      ],
+      "overview": "Un veterano policía tribal y su nuevo aprendiz deben localizar a un fugitivo implacable, cuyo regreso a su reserva indígena rural ha sacado a la luz sus secretos más oscuros y podría desencadenar una violenta guerra entre bandas.",
+      "poster": "https://image.tmdb.org/t/p/w500/zLwuYxDnZ6U64poRnDKFFdwjLcj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/f7zRlpm2SRAcTs7jBm32VNIH5KC.jpg",
+      "urls": [
+        "https://streamwish.to/e/6sc5c8wsjg5j",
+        "https://vidhidepro.com/v/ri58m2w3fpnr"
+      ]
+    },
+    {
+      "id": 123,
+      "tmdbId": 1305781,
+      "title": "Las Espadas De Los Guardianes: El viento se levanta en el desierto",
+      "year": "2026",
+      "rating": "8.1",
+      "genres": [
+        "Acción",
+        "Aventura"
+      ],
+      "overview": "Dao Ma, el segundo fugitivo más buscado, recibe del jefe del clan Mo una misión de escolta misteriosa: debe llevar al fugitivo más buscado hasta Chang'an.",
+      "poster": "https://image.tmdb.org/t/p/w500/wOYPRKEdYEdTCaJ25Q9IFmsvAkD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wHwoA0K8GO5vTcOSro8viyfxf6m.jpg",
+      "urls": [
+        "https://streamwish.to/e/xz0wn5p84vo2",
+        "https://vidhidepro.com/v/ot3gnujjrovy"
+      ]
+    },
+    {
+      "id": 124,
+      "tmdbId": 1242265,
+      "title": "Cuenta atrás",
+      "year": "2026",
+      "rating": "7.1",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "overview": "Unos obreros de la construcción encuentran una bomba de la Segunda Guerra Mundial sin explotar en pleno centro de Londres, lo que les obliga a evacuar la ciudad para salvar a la multitud de transeúntes inocentes que se encuentran en las inmediaciones. Unos ladrones oportunistas aprovecharán el caos para llevar a cabo un elaborado atraco.",
+      "poster": "https://image.tmdb.org/t/p/w500/8f3EHn2nFe4xbtcwNX9hmM0kb4m.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
+      "urls": [
+        "https://streamwish.to/e/qkowlt9o9o9c",
+        "https://vidhidepro.com/v/p8cisuiyk10s"
+      ]
+    },
+    {
+      "id": 125,
+      "tmdbId": 1280738,
+      "title": "The Furious",
+      "year": "2026",
+      "rating": "7.3",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "overview": "Rainy, hija del experto en artes marciales Wang Wei, es secuestrada por una red de tráfico de menores. En un frenético intento de recuperarla, el padre se lanza a la guerra, enfrentándose a numerosos obstáculos mientras lucha contra criminales y policías corruptos. En el camino conoce a Navin, un periodista en busca de su esposa desaparecida. Ambos despliegan sus habilidades de combate mientras aprenden las virtudes de la confianza mutua.",
+      "poster": "https://image.tmdb.org/t/p/w500/ryOVzYoGhiOn4QtkwSa8pUTivPO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
+      "urls": [
+        "https://streamwish.to/e/9bdmycjhg6je",
+        "https://vidhidepro.com/v/fj6g8xnq4rvp"
+      ]
+    },
+    {
+      "id": 126,
+      "tmdbId": 1195631,
+      "title": "Guillermo Tell",
+      "year": "2025",
+      "rating": "6.2",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Drama",
+        "Historia"
+      ],
+      "overview": "En el siglo XIV, las potencias europeas luchan por el dominio del Sacro Imperio Romano. El ambicioso Imperio Austríaco invade la pacífica Suiza, arrasando con todo a su paso. Guillermo Tell, un humilde cazador, se ve obligado a empuñar las armas cuando su familia y su tierra sufren la tiranía del rey austríaco y sus despiadados señores de la guerra.",
+      "poster": "https://image.tmdb.org/t/p/w500/f9JBhW0bjkfPufuyNyhcA5s7NVB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y9nGps2pogC3e19pUHqOaf4pBHq.jpg",
+      "urls": [
+        "https://streamwish.to/e/2n1hvzdtixsn",
+        "https://vidhidepro.com/v/5i66t4827yoa",
+        "https://streamwish.to/e/l6ee46vhhs1h",
+        "https://vidhidepro.com/v/mlmz6wz51npo"
+      ]
+    },
+    {
+      "id": 127,
+      "tmdbId": 1701686,
+      "title": "World War Bigfoot",
+      "year": "2026",
+      "rating": "10.0",
+      "genres": [
+        "Bélica",
+        "Fantasía",
+        "Acción"
+      ],
+      "overview": "Cuando su pelotón cae en una emboscada durante la Segunda Guerra Mundial, un médico estadounidense logra escapar hacia el bosque cercano, perseguido implacablemente por el enemigo. Mientras intenta evitar ser capturado, se topa con una criatura increíble, sin saber si es amiga o enemiga. Necesitará darlo todo para sobrevivir, a medida que surgen nuevas alianzas y se ponen a prueba las lealtades.",
+      "poster": "https://image.tmdb.org/t/p/w500/k94AIYLUXkhT6j4nfxdK5s36bXh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3c5xoObM8emnEXLcLE0kVwy6Lla.jpg",
+      "urls": [
+        "https://streamwish.to/e/85aurwbt9tjr",
+        "https://vidhidepro.com/v/nxfd4r4tlttp"
+      ]
+    },
+    {
+      "id": 128,
+      "tmdbId": 1624183,
+      "title": "Blackout",
+      "year": "2026",
+      "rating": "6.6",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "overview": "Tras un ataque nuclear que devasta California, un grupo de veteranos y delincuentes atrapados en un almacén debe luchar para sobrevivir a merodeadores, a la radiación y entre sí, en un mundo donde la línea entre el bien y el mal ha desaparecido.",
+      "poster": "https://image.tmdb.org/t/p/w500/gFy3I3hJeLKKJt8EGpc1ZbGTwoH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3m4jsYrVGx5hZCofSaUd6eNWzXD.jpg",
+      "urls": [
+        "https://streamwish.to/e/iaqh0vfquiln",
+        "https://vidhidepro.com/v/h128tmgyvpls"
+      ]
+    },
+    {
+      "id": 129,
+      "tmdbId": 1242332,
+      "title": "Normal",
+      "year": "2026",
+      "rating": "7.2",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "overview": "Ulysses es un sheriff sustituto que llega al tranquilo y apartado pueblo de Normal, Minnesota, huyendo de un pasado turbulento. Sin embargo, cuando el banco local es asaltado, su investigación desencadena una serie de eventos que revelan que el pueblo esconde una oscura y profunda red criminal.",
+      "poster": "https://image.tmdb.org/t/p/w500/1KmqwmCPrrs06qHFmwx4kzB58kJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+      "urls": [
+        "https://streamwish.to/e/5pl6adftt6dz",
+        "https://vidhidepro.com/v/jb6pyc6dth4i"
+      ]
+    },
+    {
+      "id": 130,
+      "tmdbId": 1254135,
+      "title": "13 días, 13 noches",
+      "year": "2025",
+      "rating": "6.8",
+      "genres": [
+        "Bélica",
+        "Acción",
+        "Suspense"
+      ],
+      "overview": "Kabul, agosto de 2021. Mientras las tropas estadounidenses se preparan para abandonar el país, los talibanes asaltan la capital y toman el poder. En medio del caos, el comandante Bida intenta garantizar la seguridad de aquellos que se encuentran en el único refugio que queda en la ciudad, la embajada francesa. Con cientos de vidas en juego, Bida negocia con los talibanes con el fin de organizar un convoy hacia el aeropuerto. Comienza entonces una carrera contrarreloj para huir del infierno de Kabul antes de que sea demasiado tarde.",
+      "poster": "https://image.tmdb.org/t/p/w500/qS3UNEPpomerbjJZKdAf33X38Kc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1zlHZDtV5KsX5VcBahNy5GDqUVt.jpg",
+      "urls": [
+        "https://streamwish.to/e/lnxt9e99n94r",
+        "https://vidhidepro.com/v/u0x9kv0uqjee",
+        "https://streamwish.to/e/otj5qk86spue",
+        "https://vidhidepro.com/v/n39k50s84b68"
       ]
     }
   ]
