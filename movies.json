@@ -1,5 +1,5 @@
 {
-  "lastId": 654,
+  "lastId": 739,
   "movies": [
     {
       "id": 1,
@@ -12146,6 +12146,1625 @@
         "https://vidhidepro.com/v/57af9i29135h",
         "https://streamwish.to/e/din2ddgwatvv",
         "https://vidhidepro.com/v/trasuljxch6z"
+      ]
+    },
+    {
+      "id": 655,
+      "tmdbId": 1359388,
+      "title": "La bala",
+      "year": "2025",
+      "rating": "5.2",
+      "genres": [
+        "Suspense"
+      ],
+      "overview": "Julián, sacerdote perteneciente a una familia acomodada de provincias, cumple la promesa que le hizo a su madre: recuperar el cadáver de su tía, enfermera de la División Azul, fallecida en la Unión Soviética durante la Segunda Guerra Mundial. Las averiguaciones sobre la causa de la muerte acaecida hace ochenta años removerán todas sus certezas.",
+      "poster": "https://image.tmdb.org/t/p/w500/zHaiUYCKjPeyDaAmY4CCXkTCFmV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/x4OcwAj80xMccpTGpZnvR08mbef.jpg",
+      "urls": [
+        "https://streamwish.to/e/jrkf66x4aynh",
+        "https://vidhidepro.com/v/5prmy4eu8lcx"
+      ]
+    },
+    {
+      "id": 656,
+      "tmdbId": 1500099,
+      "title": "Versa",
+      "year": "2025",
+      "rating": "8.2",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Drama",
+        "Fantasía"
+      ],
+      "overview": "Sigue a una joven pareja que experimenta una serie de emociones, desde el dolor y la pérdida hasta el amor definitivo, la alegría y la aceptación, mientras se embarcan en una etérea \"danza cósmica de la vida\".",
+      "poster": "https://image.tmdb.org/t/p/w500/p2zKN6Ic81C1UbLbnak4dZ2wABl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fyCKlwarO3Yd6Ikv3EJdvRdp43b.jpg",
+      "urls": [
+        "https://streamwish.to/e/2o9vvvvhxnac",
+        "https://vidhidepro.com/v/aem0qzn78dcd",
+        "https://streamwish.to/e/sh5ksrbe8x9u",
+        "https://vidhidepro.com/v/s43779nqm6jk"
+      ]
+    },
+    {
+      "id": 657,
+      "tmdbId": 1280234,
+      "title": "#SalveRosa",
+      "year": "2025",
+      "rating": "6.5",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cSLQCG8f0NIlZkYcryPg6t8VZHU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zSMwzgkGzAGsu8JnnGvOIodBLdN.jpg",
+      "urls": [
+        "https://streamwish.to/e/2qtimt0atcya",
+        "https://vidhidepro.com/v/4gtm2kemgjan"
+      ]
+    },
+    {
+      "id": 658,
+      "tmdbId": 1276704,
+      "title": "53 domingos",
+      "year": "2026",
+      "rating": "5.9",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "overview": "Tres hermanos acuerdan reunirse para decidir el futuro de su padre, pero el encuentro se convierte en un sinfín de reproches, pullas y rencillas del pasado.",
+      "poster": "https://image.tmdb.org/t/p/w500/nxUy4A5KFdNVjwqXoFRK8PqZ5vZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kFK6FpbbEvVKDH956qTKEHB4Sfp.jpg",
+      "urls": [
+        "https://streamwish.to/e/431wyk329mos",
+        "https://vidhidepro.com/v/44cyv6jei6gl"
+      ]
+    },
+    {
+      "id": 659,
+      "tmdbId": 1142101,
+      "title": "ClearMind",
+      "year": "2024",
+      "rating": "4.8",
+      "genres": [
+        "Ciencia ficción",
+        "Comedia",
+        "Suspense"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/d9ptadrfOsvH2OdHMzjCZbRDcNm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mMm9EvMfBYvHlszI95932Pwy9NL.jpg",
+      "urls": [
+        "https://streamwish.to/e/r1gv00vfzzkh",
+        "https://vidhidepro.com/v/upvlcz3mwzxr"
+      ]
+    },
+    {
+      "id": 660,
+      "tmdbId": 1516445,
+      "title": "Aún es de Noche en Caracas",
+      "year": "2025",
+      "rating": "7.0",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Drama"
+      ],
+      "overview": "Tras la muerte de su madre, Adelaida lucha por sobrevivir al colapso de Venezuela bajo una nueva y frágil identidad, pero el dolor y la violencia política la rodean.",
+      "poster": "https://image.tmdb.org/t/p/w500/bnezvVbdFwOuNk2cCILpgqL7SQt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4UELxtN4TRgVMQY4tUJMVA5cjxR.jpg",
+      "urls": [
+        "https://streamwish.to/e/grkau23tko6k",
+        "https://vidhidepro.com/v/65hcnu86acff"
+      ]
+    },
+    {
+      "id": 661,
+      "tmdbId": 1284460,
+      "title": "Alpha",
+      "year": "2025",
+      "rating": "6.2",
+      "genres": [
+        "Terror",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "overview": "Alpha, de 13 años, es una adolescente con problemas que vive sola con su madre. Su mundo se derrumba el día que llega a casa de la escuela con un tatuaje en el brazo.",
+      "poster": "https://image.tmdb.org/t/p/w500/9kPxIXNWUBO5ff98XVVUMecuPlM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rakS8RAhKOMIplBi4RbluQg4Xqn.jpg",
+      "urls": [
+        "https://streamwish.to/e/5jkwfb3qyi5z",
+        "https://vidhidepro.com/v/2oxvke1lscjv",
+        "https://streamwish.to/e/871e4oq028xc",
+        "https://vidhidepro.com/v/stm3wrysdm77"
+      ]
+    },
+    {
+      "id": 662,
+      "tmdbId": 1124566,
+      "title": "Valor sentimental",
+      "year": "2025",
+      "rating": "7.5",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "overview": "Una exploración íntima y conmovedora de la familia, los recuerdos y el poder reconciliador del arte.",
+      "poster": "https://image.tmdb.org/t/p/w500/s4a3hpTmws0mNLEn0BNBRiX5q3g.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
+      "urls": [
+        "https://streamwish.to/e/9k3lstr19syw",
+        "https://vidhidepro.com/v/r7dppuf5n32y",
+        "https://streamwish.to/e/d720eytp9b5b",
+        "https://vidhidepro.com/v/r83yc7jfaaq9"
+      ]
+    },
+    {
+      "id": 663,
+      "tmdbId": 1362514,
+      "title": "House on Eden",
+      "year": "2025",
+      "rating": "4.7",
+      "genres": [
+        "Terror"
+      ],
+      "overview": "Los investigadores de lo paranormal Kris, Celina y su camarógrafo Jay esperan los sustos habituales cuando emprenden su último caso. Pero después de ser misteriosamente desviados a una casa abandonada en lo profundo del bosque, se encuentran frente a una fuerza diferente a todo lo que han encontrado antes. A medida que la noche se convierte en una espiral de caos, los miembros desaparecidos del equipo y los extraños fenómenos apuntan a una presencia antigua y malévola que vigila todos sus movimientos.",
+      "poster": "https://image.tmdb.org/t/p/w500/2xVyCvnuVVRpYohPxrvwxZiH49r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qMV1paVi1WiHkmKH5uzIBDDh4Gf.jpg",
+      "urls": [
+        "https://streamwish.to/e/ih8aoc2lierw",
+        "https://vidhidepro.com/v/xe1ibihqx709",
+        "https://streamwish.to/e/gljhf57w52re",
+        "https://vidhidepro.com/v/av3imxhgq98k"
+      ]
+    },
+    {
+      "id": 664,
+      "tmdbId": 862739,
+      "title": "La virgen de la tosquera",
+      "year": "2026",
+      "rating": "5.7",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "overview": "Un verano caluroso, a inicios del nuevo milenio. Natalia, Mariela y Josefina, inseparables amigas desde la secundaria, se enamoran perdidamente de Diego. El idilio se interrumpe cuando Diego conoce a Silvia, una mujer de 26 años sumamente llamativa y particular.  Natalia, con ayuda de su abuela Rita, realiza un hechizo contra Diego y Silvia, apelando a macumbas vernáculas. Pero el conjuro no funciona. Esta historia se va escribiendo en los alrededores de la Tosquera, un paraje extraño de un suburbio campestre que Silvia les hace descubrir, donde hay una laguna oculta. Y a medida que el verano avanza, algo empieza a cambiar. Adaptación de cuentos del libro \"Los peligros de fumar en la cama\" de Mariana Enríquez.",
+      "poster": "https://image.tmdb.org/t/p/w500/nLw8adzoWXzF13aHgPVgnfn2rKD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bL3zF1MzeqFI4Jnd3avwflzzlor.jpg",
+      "urls": [
+        "https://streamwish.to/e/qx9uo2uzkelb",
+        "https://vidhidepro.com/v/rhxiwr9exy79"
+      ]
+    },
+    {
+      "id": 665,
+      "tmdbId": 1561687,
+      "title": "Un destino en Corea",
+      "year": "2026",
+      "rating": "7.2",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Una mujer de un pequeño pueblo de Tamil Nadu, en India, se muda a Corea del Sur, el país de sus sueños, pero le cuesta abrirse camino en una tierra extranjera.",
+      "poster": "https://image.tmdb.org/t/p/w500/8bIkhMcRg2lFKV7J5ZtbTEwU3UH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5MaWBfAxdlbsqDpq8mjCBNVoLM3.jpg",
+      "urls": [
+        "https://streamwish.to/e/1gnjp2ae8olt",
+        "https://vidhidepro.com/v/hb23muq1x0a3",
+        "https://streamwish.to/e/h8p6pgyni3br",
+        "https://vidhidepro.com/v/q2n8vbr6alqw"
+      ]
+    },
+    {
+      "id": 666,
+      "tmdbId": 1115544,
+      "title": "Mike y Nick y Nick y Alice",
+      "year": "2026",
+      "rating": "6.7",
+      "genres": [
+        "Comedia",
+        "Ciencia ficción",
+        "Acción"
+      ],
+      "overview": "Dos gángsters y la mujer a la que aman intentan sobrevivir a la noche más peligrosa de sus vidas, en la que está implicada una máquina del tiempo.",
+      "poster": "https://image.tmdb.org/t/p/w500/k6PSvLUs84QJsWLt0Zlkoa8ih6V.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+      "urls": [
+        "https://streamwish.to/e/58oh80yj2876",
+        "https://vidhidepro.com/v/60uf2fijgz1t",
+        "https://streamwish.to/e/4efojhd9ujw0",
+        "https://vidhidepro.com/v/fiws63erplkh"
+      ]
+    },
+    {
+      "id": 667,
+      "tmdbId": 912032,
+      "title": "Mar.IA",
+      "year": "2023",
+      "rating": "5.5",
+      "genres": [
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "overview": "Alina es la sonidista de una película erótica. Cuando la protagonista de su film muere en el set, y los productores deciden no llamar a la policía, se desencadenaran una serie de siniestros eventos que pondrán en peligro la vida de todos.",
+      "poster": "https://image.tmdb.org/t/p/w500/o3WGYI0pzj8B14DgFrbgz5GXKn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jheQytrDFQGlXtnwWyHPXbP3swS.jpg",
+      "urls": [
+        "https://streamwish.to/e/8glqzg7icujq",
+        "https://vidhidepro.com/v/espbk5gofwt9"
+      ]
+    },
+    {
+      "id": 668,
+      "tmdbId": 1084187,
+      "title": "Lindas y letales",
+      "year": "2026",
+      "rating": "6.8",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Terror"
+      ],
+      "overview": "Un grupo de bailarinas lucha por sobrevivir mientras intentan escapar de una remota posada después de que su autobús se averíe de camino a una competición.",
+      "poster": "https://image.tmdb.org/t/p/w500/cmZqxJQ9MdNQEoD49HYghOXsiwH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
+      "urls": [
+        "https://streamwish.to/e/7q8pes0yv0tz",
+        "https://vidhidepro.com/v/pfg913c8613a",
+        "https://streamwish.to/e/xhudatmg2u6g",
+        "https://vidhidepro.com/v/l03am0yw9zq4"
+      ]
+    },
+    {
+      "id": 669,
+      "tmdbId": 1630433,
+      "title": "La línea roja",
+      "year": "2026",
+      "rating": "6.9",
+      "genres": [
+        "Suspense",
+        "Crimen",
+        "Drama"
+      ],
+      "overview": "Tres mujeres buscan venganza tras ser víctimas de una estafa telefónica. ¿Podrán ajustar cuentas con la red criminal que les robó dinero y también su dignidad?",
+      "poster": "https://image.tmdb.org/t/p/w500/2jZkzmwSLaWO7GTWVjUsmv2SR9F.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qbbx3NDw6FrtQSrKdxn9n72xJzO.jpg",
+      "urls": [
+        "https://streamwish.to/e/lls85t6hlt7j",
+        "https://vidhidepro.com/v/kivjvp2ibsin",
+        "https://streamwish.to/e/2zd3sbn6u6x1",
+        "https://vidhidepro.com/v/o8vpzp94nqf4"
+      ]
+    },
+    {
+      "id": 670,
+      "tmdbId": 1127628,
+      "title": "Esa cosa con alas",
+      "year": "2025",
+      "rating": "6.5",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Luchando por procesar la repentina e inesperada muerte de su esposa, un joven padre pierde el control de la realidad cuando una presencia aparentemente maligna comienza a acecharle desde los oscuros recovecos del apartamento que comparte con sus dos hijos pequeños.",
+      "poster": "https://image.tmdb.org/t/p/w500/aaoS7XEWnKeQCa3EqWAXC803hlg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yzgTMSFkhMdCG1VtMnChGI6rKxF.jpg",
+      "urls": [
+        "https://streamwish.to/e/ovlgncxkh6dt",
+        "https://vidhidepro.com/v/5qi78towpgvy",
+        "https://streamwish.to/e/i27xnrwbwkbp",
+        "https://vidhidepro.com/v/z99bfe9nt98j"
+      ]
+    },
+    {
+      "id": 671,
+      "tmdbId": 1297842,
+      "title": "GOAT: Como cabras",
+      "year": "2026",
+      "rating": "8.1",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ],
+      "overview": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!».",
+      "poster": "https://image.tmdb.org/t/p/w500/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "urls": [
+        "https://streamwish.to/e/pzzf2yfdbi6p",
+        "https://vidhidepro.com/v/irv0zasm47nw"
+      ]
+    },
+    {
+      "id": 672,
+      "tmdbId": 1488234,
+      "title": "Girl in the Attic",
+      "year": "2025",
+      "rating": "6.1",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Película de TV"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ymH9eGV2Z48iW5hz15qcyhoQAhh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bEUzpqV38iBzxMzIN7CiNvGIYZP.jpg",
+      "urls": [
+        "https://streamwish.to/e/y7iodg06hw39",
+        "https://vidhidepro.com/v/dlfjbwljn8wl"
+      ]
+    },
+    {
+      "id": 673,
+      "tmdbId": 1352774,
+      "title": "El retorno de Piglet",
+      "year": "2025",
+      "rating": "6.2",
+      "genres": [
+        "Terror"
+      ],
+      "overview": "En la acampada del 21 cumpleaños de Kate, sus amigos se encuentran con Piglet, un monstruoso híbrido que asesina brutalmente a uno de ellos. Kate debe enfrentarse a su pasado para sobrevivir al implacable asesino.",
+      "poster": "https://image.tmdb.org/t/p/w500/q5EgekSffLNiHk05SCdB96byC97.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tehewlwOPFDDf4syutyopaY23AY.jpg",
+      "urls": [
+        "https://streamwish.to/e/t4ylesck2amu",
+        "https://vidhidepro.com/v/ksf8n8ghvqzo",
+        "https://streamwish.to/e/gzkg7lvs1p8j",
+        "https://vidhidepro.com/v/cm0czwhh45yo"
+      ]
+    },
+    {
+      "id": 674,
+      "tmdbId": 1482168,
+      "title": "El origen de los Red Hot Chili Peppers: Nuestro hermano Hillel",
+      "year": "2026",
+      "rating": "7.3",
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "overview": "Este sincero documental narra los años de formación de los Red Hot Chili Peppers y la profunda influencia de Hillel Slovak, miembro original de la banda.",
+      "poster": "https://image.tmdb.org/t/p/w500/vqbCDSvOm2eBjUxFd9q71n1zOUt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eUDjpW2wQg2fvSFDohhkIZkjnFw.jpg",
+      "urls": [
+        "https://streamwish.to/e/4yow5xavxiif",
+        "https://vidhidepro.com/v/sbqqe7f8gm63",
+        "https://streamwish.to/e/afsh4lsyzxz6",
+        "https://vidhidepro.com/v/izvfijmzf8tx"
+      ]
+    },
+    {
+      "id": 675,
+      "tmdbId": 1213898,
+      "title": "Violencia en la frontera 2",
+      "year": "2026",
+      "rating": "7.5",
+      "genres": [
+        "Acción",
+        "Drama",
+        "Bélica"
+      ],
+      "overview": "Jóvenes combatientes indios se prepararon para proteger su patria de una amenaza mayor durante la guerra indo-pakistaní de 1971.",
+      "poster": "https://image.tmdb.org/t/p/w500/bGMxbKjxzOUUnV0YCUYsNdV8db3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nusKn1Kkjz4NsAKXBswjJVOwMXQ.jpg",
+      "urls": [
+        "https://streamwish.to/e/dp9naj3ljxsa",
+        "https://vidhidepro.com/v/xtb1g4r1hnox"
+      ]
+    },
+    {
+      "id": 676,
+      "tmdbId": 1313032,
+      "title": "Ciudad sin sueño",
+      "year": "2025",
+      "rating": "6.6",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Toni, un chico de 15 años, vive en el asentamiento irregular más grande de Europa, a las afueras de Madrid. Orgulloso de pertenecer a su familia de chatarreros, sigue a su abuelo a todas partes. Pero los derribos se acercan a su parcela y su abuelo se niega a marcharse, sea cual sea el sacrificio. En oscuras noches sin electricidad, mientras las leyendas de su infancia cobran vida, Toni debe elegir: enfrentarse a un futuro incierto o aferrarse a un mundo que se desvanece.",
+      "poster": "https://image.tmdb.org/t/p/w500/l2JNUcLimAYEhbHKLuRQ44LJJO1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gPc45rItdIFMNM1H2EUALJqFCsX.jpg",
+      "urls": [
+        "https://streamwish.to/e/9tym53x639gv",
+        "https://vidhidepro.com/v/zz8drxbq7rmr"
+      ]
+    },
+    {
+      "id": 677,
+      "tmdbId": 1288072,
+      "title": "Keeper",
+      "year": "2025",
+      "rating": "5.7",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "overview": "Una pareja, para celebrar su aniversario, hace una escapada romántica de fin de semana a una cabaña aislada. Cuando Malcolm (Sutherland) regresa repentinamente a la ciudad, Liz (Maslany) se encuentra aislada y en presencia de un mal indescriptible que desvela los horripilantes secretos de la cabaña.",
+      "poster": "https://image.tmdb.org/t/p/w500/2sr2n0mZ8cG4VeXG4EHoPBz9QuF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8GjH1BU5PtoqAlhMeXQ46eq9z1D.jpg",
+      "urls": [
+        "https://streamwish.to/e/2tuudkpnbs5b",
+        "https://vidhidepro.com/v/1myp1p05vmi8",
+        "https://streamwish.to/e/s4sphncwq8l5",
+        "https://vidhidepro.com/v/4mmfr9916yyq"
+      ]
+    },
+    {
+      "id": 678,
+      "tmdbId": 1242015,
+      "title": "Recién nacidas",
+      "year": "2025",
+      "rating": "6.5",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Cinco madres jóvenes que viven en un refugio luchan por un mejor futuro para ellas y sus hijos a pesar de sus difíciles orígenes.",
+      "poster": "https://image.tmdb.org/t/p/w500/npgL3cBp0xtL3a5wBTrAkcbtVGH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7UsW6pKkCdCmceBmdQ0MvV6zKhL.jpg",
+      "urls": [
+        "https://streamwish.to/e/exd1huoq1pw1",
+        "https://vidhidepro.com/v/4s925mhgivzn"
+      ]
+    },
+    {
+      "id": 679,
+      "tmdbId": 1633264,
+      "title": "Louis Theroux: Dentro de la machosfera",
+      "year": "2026",
+      "rating": "6.6",
+      "genres": [
+        "Documental"
+      ],
+      "overview": "El aclamado documentalista accede de forma exclusiva y sin censura a una red de masculinidad radical en auge e investiga a los controvertidos influencers que la impulsan.",
+      "poster": "https://image.tmdb.org/t/p/w500/i5fTSyMsY93tdyYLJ3B2jlu35S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
+      "urls": [
+        "https://streamwish.to/e/05g7xc8l4ggg",
+        "https://vidhidepro.com/v/8089ajy2vg8h",
+        "https://streamwish.to/e/33718q1x76uw",
+        "https://vidhidepro.com/v/m4nt20ro5x1a"
+      ]
+    },
+    {
+      "id": 680,
+      "tmdbId": 1367763,
+      "title": "Lilly Lives Alone",
+      "year": "2025",
+      "rating": "5.8",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "overview": "Guiada por el fantasma de su hija, una madre agobiada por la culpa se sumerge en la locura en el transcurso de un sueño febril alimentado por las drogas.",
+      "poster": "https://image.tmdb.org/t/p/w500/w6aIZIGNlGqTvfRaRG1p2FlBXJl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gz0egUOuOk9EWQEMaFUvKewDKU0.jpg",
+      "urls": [
+        "https://streamwish.to/e/9r96fsq6v74q",
+        "https://vidhidepro.com/v/k8h6ntxo8uzv",
+        "https://streamwish.to/e/nq500p98ywu2",
+        "https://vidhidepro.com/v/s823pfdxhigt"
+      ]
+    },
+    {
+      "id": 681,
+      "tmdbId": 1427832,
+      "title": "No Hit Wonder",
+      "year": "2025",
+      "rating": "6.8",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "overview": "El cantante Daniel ha tocado fondo. Tras un intento fallido de suicidio, el ex cantante se encuentra ingresado en un psiquiátrico.",
+      "poster": "https://image.tmdb.org/t/p/w500/rs3TQEXnKpMK9LkvkPb3anbxdfP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hDp8Itlhln0aBjlHXVIsUsxiRaa.jpg",
+      "urls": [
+        "https://streamwish.to/e/ecomhhnj8np1",
+        "https://vidhidepro.com/v/dmcprhw0j8yc"
+      ]
+    },
+    {
+      "id": 682,
+      "tmdbId": 1551194,
+      "title": "Siempre es invierno",
+      "year": "2025",
+      "rating": "5.4",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "overview": "Miguel, arquitecto paisajista, viaja a Bélgica con su novia Marta para participar en un congreso. Allí se precipita el final de su relación y tras la ruptura con su pareja decide quedarse a solas unos días más para tratar de recomponer su futuro. Roto y desubicado, Miguel conoce a Olga, una mujer que trabaja como voluntaria en el congreso de arquitectura. A su lado comenzará a reconstruirse y a entender en qué consiste su nuevo proyecto de vida.",
+      "poster": "https://image.tmdb.org/t/p/w500/vWdQtOjqwwcO8mwm3ArcDiOiHqr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6cAgnY7Fvvr6pv4uEjEKXuHVy1b.jpg",
+      "urls": [
+        "https://streamwish.to/e/dtkhhl344u47",
+        "https://vidhidepro.com/v/uc7uxtrk6g0d"
+      ]
+    },
+    {
+      "id": 683,
+      "tmdbId": 911252,
+      "title": "Pertsa ja Kilu - Faaraon sormus",
+      "year": "2023",
+      "rating": "2.0",
+      "genres": [
+        "Aventura",
+        "Familia",
+        "Fantasía"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/lueiQlG3GrslA7cOH2rkzMoB4jq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yKZgSg3nXTZ89qMmKVmuNo6GvBP.jpg",
+      "urls": [
+        "https://streamwish.to/e/2bk8kw7byerf",
+        "https://vidhidepro.com/v/oo95a0l02w92"
+      ]
+    },
+    {
+      "id": 684,
+      "tmdbId": 1314786,
+      "title": "Zeta",
+      "year": "2026",
+      "rating": "6.7",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "overview": "Cuatro ex-oficiales de inteligencia españoles son asesinados al mismo tiempo en distintas embajadas del mundo. El CNI descubre que todos participaron hace 35 años en la oculta “Operación Ciénaga”, que ocurrió en Colombia y donde un quinto oficial de inteligencia –el único que ha escapado de los asesinos– estuvo implicado. Encontrarle será el primer objetivo para el CNI, que pone al frente de la misión a su mejor miembro: Zeta.",
+      "poster": "https://image.tmdb.org/t/p/w500/tEFMZGcmxBDCodbLAqmrjdjCTwm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ptcyGmBonW6mDQmrPhXbt6Rjrlp.jpg",
+      "urls": [
+        "https://streamwish.to/e/fro9doccjxo7",
+        "https://vidhidepro.com/v/1evn5td1th2u"
+      ]
+    },
+    {
+      "id": 685,
+      "tmdbId": 1315657,
+      "title": "Yellow Letters",
+      "year": "2026",
+      "rating": "7.3",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/taBK5pXtvKnSHY4XnlaO3jDv9FE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jF0cgfoBkmJyknP2nii2NdhChWs.jpg",
+      "urls": [
+        "https://streamwish.to/e/b5ub8whlo5xy",
+        "https://vidhidepro.com/v/blb9y3qaoaw0"
+      ]
+    },
+    {
+      "id": 686,
+      "tmdbId": 1016024,
+      "title": "Kalevala: Kullervon tarina",
+      "year": "2026",
+      "rating": "6.4",
+      "genres": [
+        "Drama",
+        "Acción"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/eUMtmxTnBuo8RUxtKeQILFX8P33.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kIQtEiPdyAIoypGNHxJrYSA6r5w.jpg",
+      "urls": [
+        "https://streamwish.to/e/mbzsjbzgoa00",
+        "https://vidhidepro.com/v/9dcqwusgrpri"
+      ]
+    },
+    {
+      "id": 687,
+      "tmdbId": 1355496,
+      "title": "By Design",
+      "year": "2026",
+      "rating": "5.9",
+      "genres": [
+        "Comedia",
+        "Fantasía",
+        "Romance"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vsxdWuHSR69euI3O3qjlJyudNUg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/v8dorP6IGgBmH0DJYvA5SJ05D8m.jpg",
+      "urls": [
+        "https://streamwish.to/e/fz5yy6baxn3g",
+        "https://vidhidepro.com/v/pjnmnfbg7f70"
+      ]
+    },
+    {
+      "id": 688,
+      "tmdbId": 1356484,
+      "title": "La casa de mis abuelos",
+      "year": "2026",
+      "rating": "7.7",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/m569E5SNHJZQDF62RhGHSTboqbu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gPTHVWTLHq8i2KwfGnJpgvcU4Sw.jpg",
+      "urls": [
+        "https://streamwish.to/e/qw8uik6o410p",
+        "https://vidhidepro.com/v/po0ozicx14d2"
+      ]
+    },
+    {
+      "id": 689,
+      "tmdbId": 1439660,
+      "title": "Fukushima: una pesadilla nuclear",
+      "year": "2026",
+      "rating": "7.0",
+      "genres": [
+        "Documental",
+        "Drama",
+        "Historia"
+      ],
+      "overview": "En marzo de 2011, Japón enfrentó un terremoto devastador seguido de un tsunami que arrasó la planta nuclear de Fukushima. Este documental impactante muestra la lucha de ingenieros, bomberos y sobrevivientes mientras intentan contener una crisis nuclear que podría haber sido aún peor que Chernóbil.",
+      "poster": "https://image.tmdb.org/t/p/w500/A8vZWKYIDmKSqZZWM6FIxzsou0I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/olz73f1yVWu5JlLDi8lI98Yekvl.jpg",
+      "urls": [
+        "https://streamwish.to/e/19pforgwq1wo",
+        "https://vidhidepro.com/v/k92ry9pt2zco"
+      ]
+    },
+    {
+      "id": 690,
+      "tmdbId": 982940,
+      "title": "Pálido",
+      "year": "2023",
+      "rating": "5.8",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Crimen"
+      ],
+      "overview": "Un abogado con pasado militar persigue a la pandilla que mató a su esposa y se llevó a su hija.",
+      "poster": "https://image.tmdb.org/t/p/w500/weurvfmsfMIIQUegn6J4TJPFlRo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y3A08SqEHqIvelH304qz4GUTLnx.jpg",
+      "urls": [
+        "https://streamwish.to/e/vlosh3c9etkn",
+        "https://vidhidepro.com/v/vwqelktt7rcx",
+        "https://streamwish.to/e/rd5s12s25qlj",
+        "https://filelions.to/v/bhcvtkkry03h"
+      ]
+    },
+    {
+      "id": 691,
+      "tmdbId": 872585,
+      "title": "Oppenheimer",
+      "year": "2023",
+      "rating": "8.0",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "overview": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+      "poster": "https://image.tmdb.org/t/p/w500/mJRUREPjTqqMEKwEiM2sdmIGngz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+      "urls": [
+        "https://streamwish.to/e/01cpn8qq0cru",
+        "https://vidhidepro.com/v/sc9b31sxwefi",
+        "https://streamwish.to/e/of0t62aqrvoo",
+        "https://vidhidepro.com/v/iiys78mf6w5g"
+      ]
+    },
+    {
+      "id": 692,
+      "tmdbId": 1175942,
+      "title": "Los tipos malos 2",
+      "year": "2025",
+      "rating": "7.6",
+      "genres": [
+        "Familia",
+        "Comedia",
+        "Crimen",
+        "Aventura",
+        "Animación",
+        "Acción"
+      ],
+      "overview": "Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.",
+      "poster": "https://image.tmdb.org/t/p/w500/mZmnKDhIS2yNmtfzde5vtdCYzBF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+      "urls": [
+        "https://streamwish.to/e/q6xqn546o9wv",
+        "https://vidhidepro.com/v/aauin7049pcn",
+        "https://streamwish.to/e/fdd0m18u03x4",
+        "https://vidhidepro.com/v/u7ohbzq48d70"
+      ]
+    },
+    {
+      "id": 693,
+      "tmdbId": 629542,
+      "title": "Los tipos malos",
+      "year": "2022",
+      "rating": "7.5",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Animación",
+        "Comedia",
+        "Crimen",
+        "Familia"
+      ],
+      "overview": "Cinco villanos notorios: el Sr. Lobo, Sr. Serpiente, Sr. Piraña, Sr. Tiburón y Srta. Tarántula, que han pasado toda una vida juntos realizando grandes atracos.",
+      "poster": "https://image.tmdb.org/t/p/w500/czxHSOXyKd6zEvIOvUTxAwqOjcK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oXx1QZzeF5V3HMQ11q6WCkA2pQh.jpg",
+      "urls": [
+        "https://streamwish.to/e/lb2cgp33sdfl",
+        "https://vidhidepro.com/v/fmlukkntvvas",
+        "https://streamwish.to/e/bpo80yh2n3w8",
+        "https://vidhidepro.com/v/svt9d6kpgixi"
+      ]
+    },
+    {
+      "id": 694,
+      "tmdbId": 1653996,
+      "title": "Perros y Diablos",
+      "year": "2026",
+      "rating": "3.5",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "overview": "Un atraco a un banco sale mal, y Cobra es el único que pagó condena por ello. 10 años después, los implicados se reúnen para celebrar su salida de la cárcel, pero las cosas han cambiado, y la nueva reunión de amigos se presenta diferente.",
+      "poster": "https://image.tmdb.org/t/p/w500/7ateP8tehPJOk7kdvIuH4co99Ls.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/26zvwI9PFVW3b7hEz16A7isxjv6.jpg",
+      "urls": [
+        "https://streamwish.to/e/bd7mjoxum9r0",
+        "https://vidhidepro.com/v/k1xu3cuf0js1"
+      ]
+    },
+    {
+      "id": 695,
+      "tmdbId": 875828,
+      "title": "Peaky Blinders: El hombre inmortal",
+      "year": "2026",
+      "rating": "7.2",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "overview": "El gánster Tommy Shelby regresa a Birmingham para salvar a su familia —y a su país— cuando su hijo, del que se ha distanciado, se ve envuelto en un complot nazi.",
+      "poster": "https://image.tmdb.org/t/p/w500/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+      "urls": [
+        "https://streamwish.to/e/tohvaypyfr9i",
+        "https://vidhidepro.com/v/tnmk0anw2zy8",
+        "https://streamwish.to/e/zdk125vvkvo1",
+        "https://vidhidepro.com/v/j6khc7xswvd3"
+      ]
+    },
+    {
+      "id": 696,
+      "tmdbId": 1309770,
+      "title": "Clear Cut",
+      "year": "2024",
+      "rating": "5.8",
+      "genres": [
+        "Suspense",
+        "Acción"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/xQE8Hz8OraOg1r5d0fibIjVpQPF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4IRzdPLmYsSs9fvjWNxJ5nPaEBm.jpg",
+      "urls": [
+        "https://streamwish.to/e/0z4ivd5l8tli",
+        "https://vidhidepro.com/v/848rfra61ybb"
+      ]
+    },
+    {
+      "id": 697,
+      "tmdbId": 1406657,
+      "title": "Scarlet",
+      "year": "2025",
+      "rating": "7.0",
+      "genres": [
+        "Animación",
+        "Acción",
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "overview": "Una princesa medieval experta en el manejo de la espada se embarca en una peligrosa misión para vengar la muerte de su padre. Tras fracasar en su misión y encontrarse gravemente herida en un 'Otromundo', conoce a un joven idealista de nuestro presente que no solo la ayuda a curarse, sino que le muestra la posibilidad de un futuro libre de amargura y rabia. Cuando se enfrenta de nuevo al asesino de su padre, Scarlet se enfrenta a su batalla más difícil: ¿podrá romper el ciclo del odio y encontrar un sentido a la vida más allá de la venganza?",
+      "poster": "https://image.tmdb.org/t/p/w500/q02d53qC6VGL3Di53bAuIR13rYf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4ZZiOP4Imzv6ULF9QczvfQ1VdEO.jpg",
+      "urls": [
+        "https://streamwish.to/e/cv45iqp1zlv2",
+        "https://vidhidepro.com/v/b5ilwmf2935g"
+      ]
+    },
+    {
+      "id": 698,
+      "tmdbId": 1457705,
+      "title": "Nuestras hijas",
+      "year": "2025",
+      "rating": "7.4",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Un drama psicológico que explora hasta dónde llegarías para salvar a tu hija. Dos familias, unidas por años de amistad, enfrentan una crisis tras un accidente que involucra a sus hijas adolescentes, revelando secretos y tensiones ocultas que pondrán a prueba su relación.",
+      "poster": "https://image.tmdb.org/t/p/w500/sx4sNJsVlftP9ij31WVmoUCoptF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oSG5OOrS5nmuwwyjscduRZnSVTF.jpg",
+      "urls": [
+        "https://streamwish.to/e/t0v46nbfa8yx",
+        "https://vidhidepro.com/v/hds0ss51u9sp"
+      ]
+    },
+    {
+      "id": 699,
+      "tmdbId": 996821,
+      "title": "¡Estáis cordialmente invitados!",
+      "year": "2025",
+      "rating": "5.8",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ],
+      "overview": "Una mujer que está planeando la boda de su hermana y el padre de otra futura novia descubren que tienen doble reserva para su destino, por lo que ambas partes deciden compartir el lugar, pero el caos y el desastre les esperan.",
+      "poster": "https://image.tmdb.org/t/p/w500/14jxZmclGIqAQ4xtYXYKhvRLTwx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lsOdEAkwQ0TcP71HocJi8WUftmp.jpg",
+      "urls": [
+        "https://streamwish.to/e/5rywmk00mvs8",
+        "https://vidhidepro.com/v/d06g71zb05g0",
+        "https://streamwish.to/e/0yj56hmttd57",
+        "https://vidhidepro.com/v/3w7lvs9loi3t"
+      ]
+    },
+    {
+      "id": 700,
+      "tmdbId": 539885,
+      "title": "Ava",
+      "year": "2020",
+      "rating": "5.8",
+      "genres": [
+        "Acción",
+        "Suspense",
+        "Crimen"
+      ],
+      "overview": "Ava es una mortífera asesina a sueldo que trabaja para una organización de operaciones encubiertas, que viaja por todo el mundo acabando con aquellos objetivos que nadie más puede derribar. Cuando uno de sus encargos sale mal, Ava tendrá que luchar por una vida.",
+      "poster": "https://image.tmdb.org/t/p/w500/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/54yOImQgj8i85u9hxxnaIQBRUuo.jpg",
+      "urls": [
+        "https://streamwish.to/e/70bk96uzenbj",
+        "https://vidhidepro.com/v/a3rx19dl9040"
+      ]
+    },
+    {
+      "id": 701,
+      "tmdbId": 1128986,
+      "title": "Кохання без контракту",
+      "year": "2023",
+      "rating": "5.2",
+      "genres": [
+        "Comedia",
+        "Romance",
+        "Misterio"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/r9pwGq666CBS8mOqXoJ5F9bPlfo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/51seJGXtI78yMUzJjYgY88v92.jpg",
+      "urls": [
+        "https://streamwish.to/e/fvvb5z8ok466",
+        "https://vidhidepro.com/v/q0esdnpa8ac4"
+      ]
+    },
+    {
+      "id": 702,
+      "tmdbId": 1323625,
+      "title": "Patrulla Nocturna",
+      "year": "2026",
+      "rating": "5.0",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "overview": "Un policía de Los Ángeles descubre que un grupo de trabajo local oculta un secreto que pone en peligro a los vecinos del barrio de su infancia.",
+      "poster": "https://image.tmdb.org/t/p/w500/kRnyUO5FGczz0eZas2NbimYEZDk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vHvVt2Lovn4G6of9u3pHEQE2CxI.jpg",
+      "urls": [
+        "https://streamwish.to/e/lbgk4opnsoi2",
+        "https://vidhidepro.com/v/4jz7gdve18ry"
+      ]
+    },
+    {
+      "id": 703,
+      "tmdbId": 950387,
+      "title": "Una película de Minecraft",
+      "year": "2025",
+      "rating": "6.2",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia",
+        "Aventura"
+      ],
+      "overview": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
+      "poster": "https://image.tmdb.org/t/p/w500/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+      "urls": [
+        "https://streamwish.to/e/ys4fcw6u0chr",
+        "https://vidhidepro.com/v/1uql3aoorak8"
+      ]
+    },
+    {
+      "id": 704,
+      "tmdbId": 507089,
+      "title": "Five Nights at Freddy's",
+      "year": "2023",
+      "rating": "7.3",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "overview": "Un hombre comienza un trabajo como guardia de seguridad nocturno en el restaurante Freddy Fazbear's Pizza, donde descubre que los animatrónicos se mueven por la noche y matan a cualquiera que vean. Adaptación de la exitosa saga de videojuegos homónima creada en 2014 por Scott Cawthon.",
+      "poster": "https://image.tmdb.org/t/p/w500/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7NRGAtu8E4343NSKwhkgmVRDINw.jpg",
+      "urls": [
+        "https://streamwish.to/e/2bghnirkocnq",
+        "https://vidhidepro.com/v/cl4lzf8wx24r",
+        "https://streamwish.to/e/mddej0lz1jx7",
+        "https://vidhidepro.com/v/bg0joi11vfqt"
+      ]
+    },
+    {
+      "id": 705,
+      "tmdbId": 243684,
+      "title": "Hombres, mujeres y niños",
+      "year": "2014",
+      "rating": "6.5",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "overview": "Se trata de una historia que investiga el efecto de internet sobre un grupo de estudiantes de secundaria y también sobre sus padres. Muestra cómo este invento ha cambiado la forma de relacionarse de la gente. Pornografía, blogs y redes sociales serán al mismo tiempo válvula de escape y causa de conflicto dentro de la familia.",
+      "poster": "https://image.tmdb.org/t/p/w500/g5JdaRO2MQHiDARlYNXu3NAnH3S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/llGQkYQxnwATVKRYvPTaGMCgQPd.jpg",
+      "urls": [
+        "https://streamwish.to/e/bh1trsymidb2",
+        "https://vidhidepro.com/v/qizdp70nlxj6",
+        "https://streamwish.to/e/465e51ymeepl"
+      ]
+    },
+    {
+      "id": 706,
+      "tmdbId": 1026532,
+      "title": "The Hermit",
+      "year": "2025",
+      "rating": "5.1",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rkh1tPoW0JhBtQppHv8JQqI4kzC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eXZ3hJVEkR1pbuvueSSNekO5tcz.jpg",
+      "urls": [
+        "https://streamwish.to/e/6wggs1xzwmxq",
+        "https://vidhidepro.com/v/vfmcxpunisfg"
+      ]
+    },
+    {
+      "id": 707,
+      "tmdbId": 1301270,
+      "title": "Skate to Hell",
+      "year": "2026",
+      "rating": "4.8",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/9zYFqmxCklduprBNkAKvTBtH7TQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ppvuChG1TLvAZkl67tRpCy9zycK.jpg",
+      "urls": [
+        "https://streamwish.to/e/gpp3ocxd59xe",
+        "https://vidhidepro.com/v/a5i0onl5a579"
+      ]
+    },
+    {
+      "id": 708,
+      "tmdbId": 1119449,
+      "title": "Buena suerte, pásalo bien, no mueras",
+      "year": "2026",
+      "rating": "7.1",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Comedia"
+      ],
+      "overview": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+      "poster": "https://image.tmdb.org/t/p/w500/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
+      "urls": [
+        "https://streamwish.to/e/pr5upjlcwav7",
+        "https://vidhidepro.com/v/aw22jqleiqbn"
+      ]
+    },
+    {
+      "id": 709,
+      "tmdbId": 1422117,
+      "title": "For Worse",
+      "year": "2026",
+      "rating": "5.6",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Romance"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/4ZvIRyfGADA3x5RnankHEtTMLE7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kIEuiMepZ8gPjxQdplwZ7vf3pNG.jpg",
+      "urls": [
+        "https://streamwish.to/e/wkiy6v8o18hi",
+        "https://vidhidepro.com/v/t7kn998o0n9h"
+      ]
+    },
+    {
+      "id": 710,
+      "tmdbId": 1366242,
+      "title": "DRAGN",
+      "year": "2025",
+      "rating": "5.0",
+      "genres": [
+        "Acción",
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/sCfVHr5BUwwWETbaDJlEbYyUBrx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8FJAKAcMHcjivv0uYAAGsA6DNJf.jpg",
+      "urls": [
+        "https://streamwish.to/e/rkmmymj0e1pl",
+        "https://vidhidepro.com/v/x1p48myzzvnx"
+      ]
+    },
+    {
+      "id": 711,
+      "tmdbId": 1114751,
+      "title": "Aquí y Allá",
+      "year": "2024",
+      "rating": "5.9",
+      "genres": [
+        "Comedia"
+      ],
+      "overview": "Adrien vive en Senegal desde hace 15 años, llevando una vida tranquila con su compañera Aminata. Cuando le devuelven a Francia por un problema de visado, llega a casa de Sékou, un primo lejano de su mujer, que trabaja como vendedor en París. Obligado por su jefe a viajar a las regiones para reunirse con los clientes, Sékou no tiene más remedio que llevar a este extraño primo en un viaje por Francia que les reserva muchas sorpresas.",
+      "poster": "https://image.tmdb.org/t/p/w500/7lKbaxpghlucEB07emuYk1L6B1V.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zS7xfeLqISfRouiA2UpPbM4HVc6.jpg",
+      "urls": [
+        "https://streamwish.to/e/lmdgsfeugjse",
+        "https://vidhidepro.com/v/sezyn3p0ie97"
+      ]
+    },
+    {
+      "id": 712,
+      "tmdbId": 1082543,
+      "title": "Mi sueño americano",
+      "year": "2024",
+      "rating": "6.8",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "overview": "El fotógrafo Luke Gilford, conocedor como pocos de la América profunda, debuta en el cine con este arrollador drama independiente sobre lo queer en la cultura del rodeo.\r Un trabajador del sector de la construcción de 21 años se une en Nuevo México a una comunidad de artistas de rodeo queer en busca de su propia versión del sueño americano.",
+      "poster": "https://image.tmdb.org/t/p/w500/wGXKLGfjah8Ni8TSniJwmjIa2q9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uplZIzadn8wcbKeBiy1469ThBRV.jpg",
+      "urls": [
+        "https://streamwish.to/e/n0aviydc6xd4",
+        "https://vidhidepro.com/v/pflu2pp6ln7f"
+      ]
+    },
+    {
+      "id": 713,
+      "tmdbId": 681434,
+      "title": "Psycho Therapy: The Shallow Tale of a Writer Who Decided to Write About a Serial Killer",
+      "year": "2025",
+      "rating": "6.9",
+      "genres": [
+        "Crimen",
+        "Comedia"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/fZgUmTyDiDLeKOlUKXnOs1GKe3b.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zP5kUq7z2f9OLki1z1wwGLngtKu.jpg",
+      "urls": [
+        "https://streamwish.to/e/xmtscmwr5zfd",
+        "https://vidhidepro.com/v/ypmn7p83ez0j"
+      ]
+    },
+    {
+      "id": 714,
+      "tmdbId": 1239478,
+      "title": "Volver a ti",
+      "year": "2025",
+      "rating": "6.8",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Thomas y Ane, en pleno divorcio, no se lo han dicho a sus hijos. Ane sufre un derrame cerebral cuando Thomas planea mudarse con su novia. Permanecen juntos, afrontando los retos de su nueva realidad.",
+      "poster": "https://image.tmdb.org/t/p/w500/2jT2oDsEqOAZpfsqaFVvesdzxKD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vMk2Nlx6EBNvP0wp5CCBzbKAo3u.jpg",
+      "urls": [
+        "https://streamwish.to/e/sjb8ma5lpbvy",
+        "https://vidhidepro.com/v/91cjnki2c2bf"
+      ]
+    },
+    {
+      "id": 715,
+      "tmdbId": 1201734,
+      "title": "Algea: God of Pain",
+      "year": "2024",
+      "rating": "6.6",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "overview": "Llega un momento en que tienes que enfrentarte a tus demonios interiores, y Algea no es una excepción. Te adentrarás en las mentes de distintos personajes que luchan contra sus demonios interiores.",
+      "poster": "https://image.tmdb.org/t/p/w500/nk66JHPvlkliRadVAMH8WiXnv6H.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kXPCUNo7ALN0S03AbmTY9Ln6Fbc.jpg",
+      "urls": [
+        "https://streamwish.to/e/xgs11jfl4hmo",
+        "https://vidhidepro.com/v/3pahq2zfur95",
+        "https://streamwish.to/e/2aopavt3xtke",
+        "https://vidhidepro.com/v/qm2ik2z0mkzm"
+      ]
+    },
+    {
+      "id": 716,
+      "tmdbId": 1264573,
+      "title": "Lurker",
+      "year": "2025",
+      "rating": "6.4",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ],
+      "overview": "Un empleado de una tienda se infiltra en el círculo íntimo de un artista a punto de alcanzar el estrellato. A medida que aumenta la cercanía con la estrella musical en ciernes, la situación derivará en una cuestión de vida o muerte.",
+      "poster": "https://image.tmdb.org/t/p/w500/3rbY3fjXQpt4sQLQvKD7CT6oJsS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/u4JsyMpp6mtAYbg0t3GIaCgPrRy.jpg",
+      "urls": [
+        "https://streamwish.to/e/5wk0sehdnu0l",
+        "https://vidhidepro.com/v/rvjpc96ncfj3"
+      ]
+    },
+    {
+      "id": 717,
+      "tmdbId": 474764,
+      "title": "La cabaña siniestra",
+      "year": "2020",
+      "rating": "6.1",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ],
+      "overview": "Grace y Richard acaban de comenzar su relación. Esto supone un pequeño inconveniente para los hijos de este, que no terminan de aceptar a la nueva pareja de su padre. Para su desgracia, estos tienen que pasar las Navidades con Wendy en una cabaña solitaria, alejada de la ciudad. Sin embargo, el trío comienza a conectar aunque resulta ser en el peor momento posibe. Unas fuerzas sobrenaturales comienzan a ser las protagonistas de unos extraños eventos en la cabaña, unos eventos que amenazan con despertar el tortuoso pasado de Grace.",
+      "poster": "https://image.tmdb.org/t/p/w500/r07nxQUDrCUeg4lNmkY1YJrivzl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2hV2clTCW55dwTLCZcOvvidjjrV.jpg",
+      "urls": [
+        "https://streamwish.to/e/d3t73rrs40uc",
+        "https://vidhidepro.com/v/2zhbskv73xpj",
+        "https://streamwish.to/e/gpq9pzxc5dep",
+        "https://vidhidepro.com/v/43nut1ep36in"
+      ]
+    },
+    {
+      "id": 718,
+      "tmdbId": 1611398,
+      "title": "Un hombre por semana",
+      "year": "2026",
+      "rating": "7.5",
+      "genres": [
+        "Comedia",
+        "Romance",
+        "Drama"
+      ],
+      "overview": "Una mujer divorciada reconstruye su vida y se abre al amor. Su búsqueda en apps de citas la lleva por momentos divertidos e impredecibles hasta descubrir el amor propio.",
+      "poster": "https://image.tmdb.org/t/p/w500/rHwOvosfDFRsjBihdh9dIHnMgbO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z4rHWzEQlg4DGy3fiGeOzjmfkyP.jpg",
+      "urls": [
+        "https://streamwish.to/e/cklf434dvcbb",
+        "https://vidhidepro.com/v/p5jz4inh01qd"
+      ]
+    },
+    {
+      "id": 719,
+      "tmdbId": 1106382,
+      "title": "Bau, artista en guerra",
+      "year": "2024",
+      "rating": "6.5",
+      "genres": [
+        "Drama",
+        "Historia",
+        "Romance"
+      ],
+      "overview": "Basada en hechos reales, narra la historia de Joseph y Rebecca Bau, cuya boda tuvo lugar en el campo de concentración de Plaszow durante la Segunda Guerra Mundial. Gracias a su talento artístico, Joseph logra sobrevivir y ayudar a escapar a cientos de personas. Años después, deberá enfrentarse de nuevo a su pasado cuando es llamado a testificar contra el oficial nazi que lo torturó y asesinó a su padre.",
+      "poster": "https://image.tmdb.org/t/p/w500/aKRTAib5hAyH85TdxbJacuWgg2M.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ioMUeaiNwPrTRnKRqjkzzcRlAEy.jpg",
+      "urls": [
+        "https://streamwish.to/e/bmxj53f91j5s",
+        "https://vidhidepro.com/v/f8nosf5fiew0",
+        "https://streamwish.to/e/amveljq36zq3",
+        "https://vidhidepro.com/v/e98huft3206c"
+      ]
+    },
+    {
+      "id": 720,
+      "tmdbId": 1383247,
+      "title": "Unidad Alpha",
+      "year": "2025",
+      "rating": "5.7",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ],
+      "overview": "Badh Siracine dejó atrás un pasado misterioso para comenzar una nueva vida en Essaouira, Marruecos. Cuando su marido, Ilias Siracine, es secuestrado por Mansour Khoury, el jefe de un poderoso cártel marroquí, Badh redescubre su deseo de justicia y venganza. Porque Badh es en realidad una ex agente de la sección Alpha de la DGSE, especialmente entrenada para eliminar \"objetivos de alto valor\" y defender los intereses de Francia. Agentes llamados \"Los Asesinos de la República\".",
+      "poster": "https://image.tmdb.org/t/p/w500/aIEJX60bRCwGS9AzuQIVnCjRqYm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lkkWEkEb0v8NKAlBQ6xLyiap3DY.jpg",
+      "urls": [
+        "https://streamwish.to/e/lrsvna94h2jo",
+        "https://vidhidepro.com/v/3x351tlsdw3h",
+        "https://streamwish.to/e/8g0hpgrlu3ud",
+        "https://vidhidepro.com/v/yygs5dmqqh9a"
+      ]
+    },
+    {
+      "id": 721,
+      "tmdbId": 1480295,
+      "title": "Affinity",
+      "year": "2025",
+      "rating": "6.5",
+      "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Suspense",
+        "Misterio"
+      ],
+      "overview": "Un ex-SEAL con estrés postraumático rescata a una mujer y se enamora de ella, pero la pierde a manos de unos misteriosos secuestradores. Reúne a un equipo de élite para recuperarla, pero pronto descubre la espeluznante verdad: ha sido manipulada por un científico que está de luto por su esposa.",
+      "poster": "https://image.tmdb.org/t/p/w500/WKwQOPh2mQPRL12jSu2yFHk4A7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ekpdjcuVVU2LIFM3EyePYykYZ4b.jpg",
+      "urls": [
+        "https://streamwish.to/e/cmi9rpob2346",
+        "https://vidhidepro.com/v/5p0qfbrlio2z"
+      ]
+    },
+    {
+      "id": 722,
+      "tmdbId": 1398911,
+      "title": "Más allá del muro",
+      "year": "2025",
+      "rating": "5.9",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "overview": "Tras la muerte de su esposo, Tabatha, una joven entrenadora de caballos, lucha contra la inseguridad financiera y un dolor sin resolver mientras brinda refugio a unos adolescentes descarriados en su rancho en ruinas en las Tierras Baldías.",
+      "poster": "https://image.tmdb.org/t/p/w500/fw5sdE4PPnMgPwgyss5XPHTBy2x.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fUil9M4RVOGkF9gx9BukFvqkP9m.jpg",
+      "urls": [
+        "https://streamwish.to/e/9jkojitc7otz",
+        "https://vidhidepro.com/v/2nwofnqphei1",
+        "https://streamwish.to/e/v8w61a09uhdm",
+        "https://vidhidepro.com/v/386axlwp6e65"
+      ]
+    },
+    {
+      "id": 723,
+      "tmdbId": 1128377,
+      "title": "Contra las cuerdas",
+      "year": "2026",
+      "rating": "5.9",
+      "genres": [
+        "Suspense",
+        "Crimen"
+      ],
+      "overview": "Ava intenta retomar su vida después de prisión, pero su gemela es asesinada y, al ser testigo del tiroteo, se ve obligada a huir para salvar su vida.",
+      "poster": "https://image.tmdb.org/t/p/w500/itCHi0wHIoFARyS7EPmQt8pT7j.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sRM4tKNCWekgwM4Dk9EvfSZ0iXB.jpg",
+      "urls": [
+        "https://streamwish.to/e/2wtdk011exc8",
+        "https://vidhidepro.com/v/2mcclnj1olqj"
+      ]
+    },
+    {
+      "id": 724,
+      "tmdbId": 639988,
+      "title": "No hay otra opción",
+      "year": "2025",
+      "rating": "7.5",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Suspense"
+      ],
+      "overview": "La historia sigue a un hombre de mediana edad llamado Man-su que se embarca decidido en una búsqueda de trabajo tras ser despedido inesperadamente de la compañía de papel en la que trabajó durante 25 años. \"Si no hay una vacante para mí, tendré que crear una para que me contraten. No hay otra opción\". Adaptación de la novela \"The Ax\" de Donald E. Westlake, que ya fue llevada al cine en la película \"Arcadia\", dirigida por Costa-Gavras en 2005.",
+      "poster": "https://image.tmdb.org/t/p/w500/xJtG8d6NAGdA8iL0fZqrHweQBUd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1eM6Ey1FzpgJigrxRiSYtntSWq7.jpg",
+      "urls": [
+        "https://streamwish.to/e/kj26jboitceh",
+        "https://vidhidepro.com/v/fkx99c3oq8u9",
+        "https://streamwish.to/e/yrbj2yzhapwd",
+        "https://vidhidepro.com/v/dax275b0evn2"
+      ]
+    },
+    {
+      "id": 725,
+      "tmdbId": 1380682,
+      "title": "El veterano",
+      "year": "2025",
+      "rating": "7.6",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Para salvar a su nieto, una estrella retirada del rodeo participa en una competición de alto riesgo de monta de toros. Por el camino, se enfrenta a su pasado, descubre la fe y comprueba que el verdadero coraje se encuentra en la familia.",
+      "poster": "https://image.tmdb.org/t/p/w500/y8ecEAgiv12UBVmhNw0gaABHht1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9MuwxjnVPGweFwo4cZPbXM2iRX9.jpg",
+      "urls": [
+        "https://streamwish.to/e/xd292f6sel70",
+        "https://vidhidepro.com/v/1yptyxklkd9d",
+        "https://streamwish.to/e/e6mhr3f2h1el",
+        "https://vidhidepro.com/v/8x0iv9l29fx3"
+      ]
+    },
+    {
+      "id": 726,
+      "tmdbId": 1480382,
+      "title": "La voz de Hind",
+      "year": "2025",
+      "rating": "8.0",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "overview": "Voluntarios de la Media Luna Roja reciben una llamada urgente de una niña de 6 años atrapada en un auto bajo fuego en Gaza. Mientras intentan mantenerla en línea, luchan contra el tiempo para enviar una ambulancia a rescatarla.",
+      "poster": "https://image.tmdb.org/t/p/w500/wJl56vf5n1o2bFJtftxzAmcP6id.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nBraEAWIC4DMf5lybx8fNiidtW3.jpg",
+      "urls": [
+        "https://streamwish.to/e/nsxsdyddvsb3",
+        "https://vidhidepro.com/v/b4zzsg6bzrnh"
+      ]
+    },
+    {
+      "id": 727,
+      "tmdbId": 1290432,
+      "title": "Vida privada",
+      "year": "2025",
+      "rating": "5.5",
+      "genres": [
+        "Misterio",
+        "Crimen",
+        "Drama"
+      ],
+      "overview": "La reputada psiquiatra Lilian Steiner emprende una investigación privada sobre la muerte de una de sus pacientes, supuestamente suicidada de la que está convencida que ha sido asesinada.",
+      "poster": "https://image.tmdb.org/t/p/w500/xKU9M7rmOqYOvcNZUGyyESEwRde.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3fZ5HvkrjaS34sZERshWm9koXdF.jpg",
+      "urls": [
+        "https://streamwish.to/e/7es10soo45cs",
+        "https://vidhidepro.com/v/728wicuk73eq"
+      ]
+    },
+    {
+      "id": 728,
+      "tmdbId": 1251683,
+      "title": "Contrato de las sombras",
+      "year": "2024",
+      "rating": "6.1",
+      "genres": [
+        "Drama",
+        "Fantasía",
+        "Terror"
+      ],
+      "overview": "Un padre soltero engañado en una carrera traicionera como la parca, mientras que su precoz hija Collette (Cech) crece cada vez más sospechosa de su paradero.",
+      "poster": "https://image.tmdb.org/t/p/w500/j9NLoEhJlcc093FGUfiQ2cPZMt1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/t39w3jezAkjsiYs9G5528EwmIph.jpg",
+      "urls": [
+        "https://streamwish.to/e/n7fa4kc9xdwo",
+        "https://vidhidepro.com/v/sz3zph1120yy"
+      ]
+    },
+    {
+      "id": 729,
+      "tmdbId": 26389,
+      "title": "Desde París con amor",
+      "year": "2010",
+      "rating": "6.5",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ],
+      "overview": "A Charlie Wax (John Travolta), un singular agente secreto estadounidense, le ha sido encomendada en París una misión de alto riesgo relacionada con el terrorismo y el tráfico de cocaína. El problema es que tropezará con James Reece (Rhys Meyers), un empleado de la embajada norteamericana, nada acostumbrado a los métodos poco ortodoxos de Wax.",
+      "poster": "https://image.tmdb.org/t/p/w500/luEfodfF9EZ8RZCPadFBpauYkgi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fra7Gk8xHPWaY4g8p6ue0o2yKOJ.jpg",
+      "urls": [
+        "https://streamwish.to/e/njgchf3rfecg",
+        "https://vidhidepro.com/v/8b66q749ogci"
+      ]
+    },
+    {
+      "id": 730,
+      "tmdbId": 1381216,
+      "title": "Gator Lake",
+      "year": "2024",
+      "rating": "6.3",
+      "genres": [
+        "Terror",
+        "Comedia",
+        "Aventura"
+      ],
+      "overview": "En el lago más peligroso de Florida, un cocodrilo gigante siembra el terror al iniciar una matanza para recuperar su territorio. Para detenerlo, un domador de cocodrilos y exconvicto recibe la oportunidad de borrar su pasado si logra cazar a la criatura.",
+      "poster": "https://image.tmdb.org/t/p/w500/xL0MYWgZjjCpsoA2vNBgg2bbNfm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3Vq8otoGevbhcZAKY2devVbPs6L.jpg",
+      "urls": [
+        "https://streamwish.to/e/4f1sz6c03t2m",
+        "https://vidhidepro.com/v/r1ejfi58324n"
+      ]
+    },
+    {
+      "id": 731,
+      "tmdbId": 434853,
+      "title": "Espacio/Tiempo",
+      "year": "2025",
+      "rating": "5.9",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Suspense"
+      ],
+      "overview": "En un futuro al borde del colapso, un equipo de científicos presenta un motor de curvatura espacial que podría salvar a la humanidad. La primera prueba acaba en desastre, lo que provoca el cierre del proyecto y la deshonra de sus creadores. Holt, un visionario brillante pero despiadado, y su ambiciosa ayudante, Liv, se niegan a permitir que su trabajo desaparezca y recurren a los bajos fondos para reconstruir el dispositivo. En su carrera contra el tiempo y la ley, el motor se convierte en algo más que una oportunidad de supervivencia: se convierte en una obsesión. Con el futuro de la humanidad pendiendo de un hilo, el equipo debe enfrentarse a una pregunta inquietante: ¿será su creación la salvación o desencadenará algo mucho peor?",
+      "poster": "https://image.tmdb.org/t/p/w500/szBZF4QOjNeutEShuqxhkXSZP9G.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w1Z1I9PqTK5UjG6RVAFXLCjp1Sw.jpg",
+      "urls": [
+        "https://streamwish.to/e/s7rbyilguobi",
+        "https://vidhidepro.com/v/7ezih6f6niby"
+      ]
+    },
+    {
+      "id": 732,
+      "tmdbId": 1393382,
+      "title": "La venganza de Popeye",
+      "year": "2025",
+      "rating": "4.9",
+      "genres": [
+        "Terror"
+      ],
+      "overview": "La leyenda de Popeye persigue a un grupo de concejales cuando pretenden abrir un campamento de verano.",
+      "poster": "https://image.tmdb.org/t/p/w500/k0PqbsIRcmmm5wzO2mLQLa2SEjL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kSKC5GilSW3IXejH7Pp4sp2lzF1.jpg",
+      "urls": [
+        "https://streamwish.to/e/skn7b6zi3vqe",
+        "https://vidhidepro.com/v/6ejbgmjcdhg4",
+        "https://streamwish.to/e/8y08e63o4oav",
+        "https://vidhidepro.com/v/ix80vo8y5hpy"
+      ]
+    },
+    {
+      "id": 733,
+      "tmdbId": 1649883,
+      "title": "Tienes 24 horas",
+      "year": "2024",
+      "rating": "4.8",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Unos amigos están pasando el rato cuando de pronto una tarjeta llega a las manos de una de ellos. En la tarjeta pone que en 24 horas morirá si no consigue que alguien coja esa tarjeta voluntariamente.",
+      "poster": "https://image.tmdb.org/t/p/w500/cscRKeBPD2mkjr4e8gpmWZuUTUj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3xij9HMHuCYUNB45RIXoqX14pbX.jpg",
+      "urls": [
+        "https://streamwish.to/e/dkcj2qelxdlj",
+        "https://vidhidepro.com/v/qd2xtvzc5d5j"
+      ]
+    },
+    {
+      "id": 734,
+      "tmdbId": 1310505,
+      "title": "A Costa Rican Wedding",
+      "year": "2025",
+      "rating": "6.8",
+      "genres": [
+        "Romance",
+        "Aventura",
+        "Comedia"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vEhmBiyYcmi12eISpjQVtW30qz8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yC6lxF30s9IA7X0Vx1ZKFo6Tni6.jpg",
+      "urls": [
+        "https://streamwish.to/e/q68a2bm895fc",
+        "https://vidhidepro.com/v/ruq1pbotb5dk"
+      ]
+    },
+    {
+      "id": 735,
+      "tmdbId": 1582339,
+      "title": "Haunters of the Silence",
+      "year": "2025",
+      "rating": "6.8",
+      "genres": [
+        "Terror"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/aB5q9FJVo9xsWkGgYs5ySJXPUHJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2fyeDl9rPvPzaHtSarGfaKLfvVV.jpg",
+      "urls": [
+        "https://streamwish.to/e/0zy8ltyqbtws",
+        "https://vidhidepro.com/v/xfj80saa0kif"
+      ]
+    },
+    {
+      "id": 736,
+      "tmdbId": 1586941,
+      "title": "Herman",
+      "year": "2025",
+      "rating": "6.0",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Fantasía"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/c7QxpoTCyGG39daxFCFzF2z084Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vwBNzECb3gA4TyCZJdR5151WpzW.jpg",
+      "urls": [
+        "https://streamwish.to/e/dyllagmav0f1",
+        "https://vidhidepro.com/v/amko6vbkf7r2"
+      ]
+    },
+    {
+      "id": 737,
+      "tmdbId": 1125701,
+      "title": "Unas vacaciones en invierno",
+      "year": "2026",
+      "rating": "6.8",
+      "genres": [
+        "Drama"
+      ],
+      "overview": "Stella y Gerry, una pareja de jubilados que lleva toda una vida juntos, viaja a Ámsterdam para unas vacaciones invernales. Allí, entre recuerdos, silencios y heridas que nunca llegaron a cerrarse, ambos descubren que su relación se encuentra en una encrucijada que podría definir su futuro.",
+      "poster": "https://image.tmdb.org/t/p/w500/IwzH6OUA5r9Hsv9ck6dLAPT3in.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rLEDPOSZkmeBy47wzNTEXTj5ABj.jpg",
+      "urls": [
+        "https://streamwish.to/e/nxzazdqmq735",
+        "https://vidhidepro.com/v/a67l1n8swtt1"
+      ]
+    },
+    {
+      "id": 738,
+      "tmdbId": 1506323,
+      "title": "Minnie’s Midnight Massacre",
+      "year": "2026",
+      "rating": "5.5",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/eV9vdeMqmxOTxz2ELICoHhkbHn6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bPN80eWwrukw6EulhWu7Y3Ha5P4.jpg",
+      "urls": [
+        "https://streamwish.to/e/klra81h4w3s6",
+        "https://vidhidepro.com/v/ztiloqd7o89c"
+      ]
+    },
+    {
+      "id": 739,
+      "tmdbId": 1363381,
+      "title": "Petaka Gunung Gede",
+      "year": "2025",
+      "rating": "6.5",
+      "genres": [
+        "Aventura",
+        "Terror",
+        "Drama"
+      ],
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rmh9oNW0eaUwhQyW22mgzur0NpE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bKC9f4fvDMlE1KqkHguUlhKDhil.jpg",
+      "urls": [
+        "https://streamwish.to/e/nj3f7f7zlfub",
+        "https://vidhidepro.com/v/mnphc9y9a4tw"
       ]
     }
   ]
